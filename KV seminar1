@@ -1,0 +1,15 @@
+/* Oholoszennia funkcji w mowi C zadaje syhnaturu funkcji, 
+mowa C je statyczno typizowanoju mowoju, typ zwjazujetsia zi zminoju 1 raz 
+oholoszennia funkcji stworiuje syhnaturu funkcji (typ arhumentiw i typ znaczennia.
+int foo(int x, double y); imena arhumentiw ne wchodiat w syhnaturu funkcji 
+Funkcja może buty wyklykana nawit jakszczo szcze ne wyznaczena 
+int t = 42: int s< s = foo(t. 1.0)
+Des w prohrami odyn raz maje znajtysia tilo funkcji 
+int foo(int x, double y) { int t = x + (int) y: return t; }
+
+#include <stdio.h>
+
+int main() {                  //tilo funkcji main() return ne pyszemo
+printf ("Baruch Adonai \n"); //vyklyk funkcji printf, arhyment "Baruch Adonai"
+}                             //kineć tila funkcji
+return 0;
