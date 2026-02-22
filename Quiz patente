@@ -1,0 +1,130 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <random>
+using namespace std;
+
+struct Domanda {
+    string testo;
+    string risposta_giusta; // "vero" lub "falso"
+};
+
+int main() {
+    // Tworzymy wektor pytań typu Domanda
+    vector<Domanda> domande;
+
+    // Dodajemy pytania vero
+    vector<string> domande_vere = {
+        "[Intersezione a T] preannuncia che si incrocia a destra una strada di minore importanza",
+        "[I/sez a T] preannuncia un incrocio con una strada secondaria che si immette da destra",
+        "[I/sez a T]bisogna usare prudenza perché ci si sta avvicinando ad un incrocio",
+        "[I/sez a T] è un segnale di precedenza",
+        "[I/sez a T] preannuncia l’incrocio con una strada senza diritto di precedenza",
+        "[I/sez a T] preannuncia un incrocio in cui il conducente ha la precedenza sui veicoli provenienti da destra",
+        "[I/sez a T SX] preannuncia che si incrocia sulla sinistra una strada di minore importanza",
+        "[I/sez a T] preannuncia un incrocio in cui si ha la precedenza",
+        "[I/sez a T SX] prescrive di usare prudenza perché ci si sta avvicinando ad un incrocio",
+        "[I/sez a T SX] è un segnale di precedenza",
+        "[I/sez a T SX] preannuncia l’incrocio con una strada senza diritto di precedenza",
+        "[I/sez a T SX] raffigurato preannuncia un incrocio in cui si ha la precedenza sui veicoli provenienti da sinistra",
+        "[C/fluenza a DX] preannuncia una immissione da destra con corsia di accelerazione",
+        "[C/fuenza a DX] preannuncia una confluenza sul lato destro",
+        "[C/fluenza a DX] può trovarsi sulle autostrade",
+        "[C/fluenza a DX] invita ad usare la massima prudenza al fine di evitare incidenti",
+        "[C/fluenza a DX] indica che abbiamo la precedenza sui veicoli che si immettono da destra",
+        "[C/fluenza a DX] sulla rampa di raccordo è posto il segnale di DARE PRECEDENZA",
+        "[C/fluenza a SX] preannuncia un’immissione stradale con corsia di accelerazione posta sulla sinistra",
+        "[C/fluenza a SX] preannuncia una confluenza sul lato sinistro della carreggiata",
+        "[C/fluenza a SX] preannuncia un’immissione stradale con corsia di accelerazione posta sulla sinistra",
+        "[C/fluenza a SX] preannuncia una confluenza sul lato sinistro della carreggiata",
+        "[C/fluenza a SX] si trova su carreggiate a senso unico di circolazione",
+        "[C/fluenza a SX] invita ad usare prudenza perché altri veicoli potrebbero immettersi nel flusso della circolazione",
+        "[C/fluenza a SX] è usato su strade con diritto di precedenza",
+        "[C/dluenza a SX] comporta la presenza del segnale DARE PRECEDENZA sulla strada di immissione laterale",
+        "[D. di precedenza] l’inizio di una strada in cui i veicoli hanno diritto di precedenza",
+        "[D. di precedenza] può essere posto su una strada statale",
+        "[D. di precedenza] bisogna comunque dare la precedenza ai veicoli che hanno in funzione il lampeggiante blu e sirena",
+        "[D. di precedenza] è un segnale di precedenza",
+        "[D. di precedenza] bisogna comunque assicurarsi che i veicoli provenienti dalle strade laterali diano la precedenza",
+        "[D. di precedenza] è un segnale di prescrizione", //IMPORTANTE
+        "[Dare prec nei sensi unici altern] impone, nelle strettoie, di dare precedenza ai veicoli provenienti dal senso opposto",
+        "[Dare precedenza nei sensi unici alternati] in presenza di lavori, di dare precedenza ai veicoli provenienti dal senso opposto",
+        "[Dare precedenza nei sensi unici alternati] preannuncia che bisogna dare la precedenza ai veicoli provenienti di fronte",
+        "[Dare precedenza nei sensi unici alternati] obbliga a dare la precedenza ai veicoli provenienti dal senso contrario",
+        "[Dare precedenza nei sensi unici alternati] impone di dare la precedenza nei sensi unici alternati",
+        "[Dare precedenza nei sensi unici alternati] in una strada a doppio senso, precede una strettoia che permette il transito di una sola fila di veicoli",
+        "[Dare precedenza nei sensi unici alternati] preannuncia che la circolazione non può svolgersi contemporaneamente nei due sensi",
+        // tutaj dopisujesz więcej pytań vero
+    };
+    for (const auto& testo : domande_vere) {
+        domande.push_back({testo, "vero"});
+    }
+
+    // Dodajemy pytania falso
+    vector<string> domande_false = {
+        "[I/sez a T] preannuncia, sulla destra, una strada senza uscita",
+        "[I/sez a T] vieta la svolta a destra",
+        "[I/sez a T] è posto sulle corsie di accelerazione delle autostrade",
+        "[I/sez a T] preannuncia un’immissione stradale con corsia di accelerazione",
+        "[I/sez a T] un incrocio in cui il conducente ha l’obbligo di fermarsi e dare precedenza ai veicoli provenienti da destra",
+        "[I/sez a T] indica una piazzola di sosta a destra",
+        "[I/sez a T SX] preannuncia sulla sinistra una strada senza uscita",
+        "[I/sez a T SX] vieta la svolta a sinistra", //! NON VIETA !!
+        "[I/sez a T SX] preannuncia una confluenza in autostrada", //Intersezione non e confluenza
+        "[I/sez a T SX] preannuncia una confluenza a destra",
+        "[I/sez a T SX] è posto sulle rampe di accesso alle autostrade",
+        "[I/sez a T SX] preannuncia l’incrocio con un binario morto",
+        "[C/fluenza a DX] è posto a non più di 25 metri dall’incrocio",
+        "[C/fluenza a DX] preannuncia di dare precedenza ai veicoli provenienti da destra",
+        "[C/fluenza a DX] viene posto su strada secondaria che non gode del diritto di precedenza",
+        "[C/fluenza a DX] può precedere il segnale DARE PRECEDENZA",
+        "[C/fluenza a DX] su autostrada, non comporta una riduzione della velocità",
+        "[C/fluenza a DX] consente la svolta a destra al prossimo incrocio",
+        "[C/fluenza a SX] è posto a non più di 25 metri dall’incrocio",
+        "[C/fluenza a SX] prescrive di dare la precedenza ai veicoli provenienti da sinistra",
+        "[C/fluenza a SX] preannuncia che non si ha diritto di precedenza nella confluenza",
+        "[C/fluenza a SX] precede il segnale di DARE PRECEDENZA",
+        "[C/fluenza a SX] posto sulle autostrade, precede il segnale d’obbligo di svolta a sinistra",
+        "[C/fluenza a SX] consente la svolta a sinistra al prossimo incrocio",
+        "[D. di precedenza] obbliga ad arrestarsi all’incrocio",
+        "[D. di precedenza] può essere posto a protezione di attraversamenti pedonali pericolosi",
+        "[D. di precedenza] è posto esclusivamente su strade extraurbane ad intenso traffico",
+        "[D. di precedenza] preannuncia incrocio con precedenza rispetto ai soli veicoli provenienti da destra",
+        "[D. di precedenza] preannuncia le corsie riservate agli autobus in servizio pubblico",
+        "[D. di precedenza] preannuncia l’inizio di un cantiere stradale",
+        "[Dare precedenza nei sensi unici alternati] preannuncia che la circolazione è ammessa nei giorni pari in un senso e nei giorni dispari nell’altro",
+        "[Dare precedenza nei sensi unici alternati] preannuncia il diritto di precedenza nei sensi unici alternati",
+        "[Dare precedenza nei sensi unici alternati] su una carreggiata a senso unico, preannuncia l’inizio del doppio senso di circolazione",
+        "[Dare precedenza nei sensi unici alternati] preannuncia la fine del senso unico di circolazione",
+        "[Dare precedenza nei sensi unici alternati] preannuncia la fine del diritto di precedenza nei sensi unici alternati",
+        "[Dare precedenza nei sensi unici alternati] si trova su strade a senso unico di circolazione",
+  // tutaj dopisujesz więcej pytań falso
+    };
+    for (const auto& testo : domande_false) {
+        domande.push_back({testo, "falso"});
+    }
+
+    // Generator losowy
+    random_device rd;
+    mt19937 g(rd());
+    shuffle(domande.begin(), domande.end(), g);
+
+    string risposta_utente;
+
+    // Quiz losowy
+    for (const auto& d : domande) {
+        cout << d.testo << " (vero/falso): ";
+        cin >> risposta_utente;
+
+        for (char &c : risposta_utente) c = tolower(c);
+
+        if (risposta_utente == d.risposta_giusta) {
+            cout << "Corretto!\n\n";
+        } else {
+            cout << "Sbagliato! La risposta giusta era '" << d.risposta_giusta << "'.\n\n";
+        }
+    }
+
+    cout << "Quiz finito!\n";
+}
