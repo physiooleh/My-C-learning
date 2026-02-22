@@ -12,7 +12,7 @@ struct Domanda {
 
 int main() {
     // Tworzymy wektor pytań typu Domanda
-    vector<Domanda> domande;
+    vector<Domanda> doman
 
     // Dodajemy pytania vero
     vector<string> domande_vere = {
