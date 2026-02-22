@@ -1,0 +1,83 @@
+// try 1 without AI
+
+
+#include <iostream>
+#include <string>
+#include <vector>
+#include <algorithm>
+#include <random>
+
+using namespace std;
+
+struct Sein {
+string text;
+string dieRichtAntwort;
+};
+
+int main() {
+    vector<Sein>
+    vector<string> IndikativPrasens = {
+    "ich bin";
+    "du bist";
+    "er ist";
+    "wir sind";
+    "ihr seid";
+    "sie sind"
+    };
+    for (const auto& text : dieRichtAntwort) {
+    Sein.push_back((text, "Indikativ Prasens"));
+    };
+
+    vector<string> IndikativPrateritum = {
+    "ich war";
+    "du warst";
+    "er war";
+    "wir waren";
+    "ihr wart";
+    "sie waren"
+    };
+    for (const auto& text : dieRichtAntwort) {
+    Sein.push_back((text, "Indikativ Prateritum")); 
+    };
+
+    vector<string> IndikativPerfekt = {
+    "ich bin gewesen";
+    "du bist gewesen";
+    "er ist gewesen";
+    "wir sind gewesen";
+    "ihr seid gewesen";
+    "sie sind gewesen"
+    };
+    for (const auto& text : dieRichtAntwort) {
+    Sein.push_back((text, "Indikativ Perfekt"));
+    };
+
+    vector<string> IndikativPlusquamperfekt = {
+    "ich war gewesen";
+    "du warst gewesen";
+    "er war gewesen";
+    "wir waren gewesen";
+    "ihr wart gewesen";
+    "sie waren gewesen";
+    };
+    for (const auto& text : dieRichtAntwort) {
+    Sein.push_back((text, "Indikativ Plusquamperfekt"));
+    };
+    
+    random_device rd;
+    mt19937 g(rd());
+    shuffle(Sein.begin(), Sein.end(), g);
+    
+    string Antwort;
+    for (const auto& f : Frage) {
+    cin >> Antworth;
+
+    for (cher &c : Antworth) c = tolower(c);
+
+    if (Antworth == dieRichtAntworth) {
+    cout << "Richtig \n\n";
+    } else {
+    cout << "Falsch, die richtige Antwort war" << f.dieRichtAntworth;
+    }
+    }
+    }
