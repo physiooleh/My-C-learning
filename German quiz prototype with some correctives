@@ -1,0 +1,88 @@
+/* i cannot asleep this night, this program obviously has a lot of bugs
+i was doing these code with 'Blackmore's nighr - Under the violet moon' hehe */
+
+#include <iostream>
+#include <string>
+#include <algorithm>
+#include <vector>
+#include <random>
+
+using namespace std;
+
+struct Werden {
+string text;
+string dieRichtAntwort;
+};
+int main() {
+vector<Werden> werdenListe;
+vector<string> IndikativPrasens = {
+"ich werde",
+"du wirst",
+"er wird",
+"wir werden",
+"ihr werdet",
+"sie werden" };
+for (const auto& TextVonMirVerfasst : IndikativPrasens) {
+werdenListe.push_back({text, "Indikativ Prasens"}); }
+
+vector<string> IndikativPrateritum = {
+"ich wurde",
+"di wurdest",
+"er wurde",
+"wir wurden",
+"ihr wurdet",
+"sie wurden" };
+for (const auto& TextVonMirVerfasst : IndikativPrateritum) {
+werdenListe.push_back({TextVonMirVerfasst, "Indikativ Prateritum"}); }
+
+vector<string> IndikativPlusquamperfekt = {
+"ich war geworden",
+"du warst geworden",
+"er war geworden",
+"wir waren geworden",
+"ihr wart geworden",
+"sie waren geworden" };
+for (const auto& TextVonMirVerfasst : IndikativPlusquamperfekt) {
+werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Plusquamperfekt"});}
+
+vector<string> IndikativFuturI = {
+"ich werde werden",
+"du wirst werden",
+"er wird werden",
+"wir werden werden",
+"ihr werdet werden",
+"sie werden werden" };
+for (const auto& TextVonMirVerfasst : IndikativFuturI){
+werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Futur I"});}
+
+vector<string> IndikativFuturII = {
+"ich werde geworden sein",
+"du wirst geworden sein",
+"er wird geworden sein",
+"wir werden geworden sein",
+"wir werden geworden sein",
+"ihr werdet geworden sein",
+"sie werden gewordet sein" };
+for (const auto& TextVonMirVerfasst : IndikativFuturII){
+werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Futur II"});}
+
+random_device rd;
+mt19937g(rd());
+shuffle(werdenListe.begin(), werdenListe.end(), g);
+
+for(const auto& f : werdenListe) {
+cout << "How to say in German" << f.dieRichtAntwort;
+string Antwort;
+cin >> ws;
+getline(cin, Antwort);
+
+for (char &c : richtigeAntwort) c = toolower(c);
+
+if (Antwort == richtigeAntwort) {
+cout << Richtig \n\n";
+] else {
+cout << "Falsch, die richtige Antwort war:" << f.text;
+}
+}
+return 0;
+}
