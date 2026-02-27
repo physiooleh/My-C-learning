@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+alignas(16) int numerators[] = {7, 14, 9, 20, 17};
+alignas(16) int denominators[] = {3,4,2,6,5};
+int n = 5;
+
+for(int i = 0; i < n; i++) {
+int a = numerators[i];
+int b = denominators[i];
+int quotient = a/b;
+int remainder = a%b;
+
+cout << a << "/" << b
+<< "=" << quotient
+<< ", ostacza" << remainder
+<< endl;
+}
+}
