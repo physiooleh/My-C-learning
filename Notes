@@ -1,1 +1,13 @@
-start
+#include <iostream>
+#inbclude <string>
+
+using namespace std;
+
+int main() {
+string text R"
+Passaggio di proprieta per la maccina: 1. Firma autenticata, Registrazione nell Pubblico Registro Automobilistico, Nuova carta di cirtcolazione
+Pagamento Imposta Provinciale di trascrizione
+ACI
+Agenzia pratiche auto
+"
+}
