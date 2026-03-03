@@ -1,0 +1,26 @@
+#include <iostream>
+#include <unordered_map>
+using namespace std;
+
+int main() {
+    unordered_map<string, int> wskaznik;
+
+    wskaznik["saturatory Net profit after tax 2026"] = 5.412;
+    wskaznik["cash Net profit after tax 2026"] = 5,445;
+    wskaznik["Pre-provision profit"] = 8.131;
+    wskaznik["Dividend"] = 2.35; //proc
+wskaznik["Net interest margin"] = 2.04; //proc
+wskaznik["Operating expences"] = 6,720;
+wskaznik["proc to income Operating expences"] = 44.7; //proc
+wskaznik["Credit quality - loan impairment expence"] = 319;
+wskaznik["Loan loss rate"] = 6; //bpts
+wskaznik["Funding and liquidity"] = 79; //proc
+wskaznik["APRA Common equity tier 1 capital ratio"] = 12.3; //proc
+wskaznik["international Common equity tier 1 capital raetio"] = 18.3; //proc
+wskaznik["return on equity Shareholder return"] = 13.8; //proc
+wskaznik["dividend per share"] = 2.35 //proc
+
+    cout << "dividend per share: " << wskaznik["dividend per share"] << endl;
+
+    return 0;
+}
