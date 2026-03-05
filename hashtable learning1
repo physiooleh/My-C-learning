@@ -1,0 +1,12 @@
+#include <iostream>
+
+using namespace std;
+
+//masyw naszych elementow
+
+typedef struct { //oglaszamy strukture dla naszych elementow
+
+}Item;
+typedefof struct {
+
+} Hashmap
