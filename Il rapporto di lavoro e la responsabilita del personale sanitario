@@ -1,0 +1,171 @@
+/* Il corrispettivo economico, infatti, deve essere:
+proporzionato alla quantità e alla qualità del lavoro,
+sufficiente ad assicurare al lavoratore e alla sua famiglia un esistenza libera e 
+dignitosa, non oppressa dal bisogno economico. -- Wynagrodzenie ekonomiczne powinno bowiem 
+być: proporcjonalne do ilości i jakości wykonywanej pracy, wystarczające, aby zapewnić 
+pracownikowi i jego rodzinie godne i wolne od trosk materialnych życie
+
+Il diritto a precepire la retribuzione sorge solo con effettivo inizio del servizio, mentre
+il rapporto di impiego si costituisce alla data di stipulazione del contratto. -- Prawo do 
+otrzymywania wynagrodzenia powstaje dopiero z chwilą rzeczywistego rozpoczęcia świadczenia pracy,
+podczas gdy stosunek pracy nawiązuje się w dniu zawarcia umowy.
+
+L'emolumento e composto da una paga base, stabilita in misura fissa in 
+relazione alla posizione giuridica dell'impiegato, e da indennità 
+corrisposte in relazione a particolari prestazioni o situazioni. 
+In ogni caso oggi il trattamneto economico fondamentale e accessorio e 
+definito dai contratti collettivi nazionali o integrativi.
+-- Wynagrodzenie składa się z podstawowego uposażenia, ustalonego w stałej
+wysokości w zależności od statusu prawnego pracownika, oraz z dodatków 
+wypłacanych w związku z określonymi świadczeniami lub sytuacjami. Obecnie 
+zarówno podstawowe, jak i dodatkowe składniki wynagrodzenia są określane 
+przez krajowe układy zbiorowe pracy lub układy uzupełniające.
+
+Siccome lo spirito della privattizzazione ha inteso abolire 
+tendenzialmente ogni forma di automatismo nella progressione del pubblico 
+impiegato, attribuendo rilievo esclusivamente al merito, la sola forma di 
+avanzamento economico prevista, per conseguire una retribuzione piu elevata, 
+e la progressione orizzontale (mentre quella verticale permette solo di 
+conseguire una piu elevata posizione giuridica).--
+Ponieważ duch prywatyzacji miał na celu stopniowe zniesienie wszelkich 
+automatycznych mechanizmów awansu w sektorze publicznym, nadając znaczenie
+wyłącznie kryterium zasługi, jedyną przewidzianą formą podwyższenia 
+wynagrodzenia w celu uzyskania wyższych zarobków jest awans poziomy 
+(natomiast awans pionowy umożliwia jedynie osiągnięcie wyższej pozycji 
+prawnej).
+Al dipendente cessato dal servizio, per qualunque causa, spetta il
+trattamento di fine rapporto (TFR), a condizione che il servizio abbia 
+avuto una durata minima di 15 giorni. Il TFR ha la funzione di agevolare 
+economicamente il passaggio dal servizio attivo alla pensione.
+Esso viene sorrisposto una tantum all'impiegato o ai famigliari superstiti.
+--Pracownikowi, którego stosunek pracy ustał z jakiejkolwiek przyczyny, 
+przysługuje odprawa końcowa (TFR), pod warunkiem że okres zatrudnienia 
+trwał co najmniej 15 dni. Odprawa ta ma na celu ułatwienie przejścia z 
+aktywności zawodowej na emeryturę pod względem ekonomicznym. 
+Wypłacana jest jednorazowo pracownikowi lub pozostałym przy życiu 
+członkom rodziny.
+2.3.2. I diritti non patrimoniali -- Uprawnienia nieekonomiczne
+Si tratta di prerogative prive di connotazione economica. Segnatamente, essi sono:
+il diritto alle funzioni, in forza del quale il pubblico dipendente deve essere adibito alle 
+mansioni per le quali e stato assunto, potendo essere destinato a mansioni di livello 
+diverso solo temporaneamente ed eccezionalmente, sebbene amministrazione goda di 
+discrezionalita nell attribuirgli le mansioni a lui ritenute piu consone nell ambito dell 
+area di inquadramento che gli compete. 
+-- Chodzi o uprawnienia pozbawione wymiaru ekonomicznego. Są to w 
+szczególności: prawo do wykonywania obowiązków służbowych, na mocy którego pracownik 
+sektora publicznego powinien być zatrudniany na stanowisku, na które został przyjęty. 
+Może być przydzielony do zadań o innym poziomie jedynie tymczasowo i w wyjątkowych 
+sytuacjach, chociaż administracja dysponuje swobodą w przypisywaniu mu zadań uznanych za 
+bardziej odpowiednie w ramach obszaru jego klasyfikacji
+
+Il diritto alla sede desiderate, nel limiti posti dalle esigenze organizzative. Per 
+assegnazione della prima sede si tiene conto della graduatoria. La deroga e consentita 
+solo se giustificata da obiettive esigenze (es. carico di famiglia, assistenza a 
+familiari disabili, ecc.)--Prawo do preferowanego miejsca pracy, w granicach wyznaczonych
+przez potrzeby organizacyjne. Przy przydziale pierwszego miejsca pracy uwzględniana jest 
+lista rankingowa. Odstępstwo od tej zasady jest dopuszczalne jedynie w uzasadnionych 
+przypadkach (np. obciążenie rodzinne, opieka nad niepełnosprawnymi członkami rodziny itp.).
+
+il diritto a periodi di riposo e permessi retribuiti, nonche il diritto di assentarsi
+per impossibilita di recarsi in ufficio a causa di malattia o infermita fisica, 
+consistente nella temporanea inabilita a prestare regolare servizio -- Prawo do okresów 
+wypoczynku i płatnych urlopów, a także prawo do nieobecności w pracy z powodu niemożności
+stawiennictwa w urzędzie z powodu choroby lub dolegliwości fizycznych, polegającej na 
+czasowej niezdolności do regularnego wykonywania obowiązków służbowych;
+
+i diritti sindacali, fra cui il diritto di aderire ad associazioni sindacali esistenti o 
+di costruirne di nuove, il diritto di partecipare alle asemblee indette dai dirigenti 
+dei sindacati, il diritto alle aspettative e ai permessi sindacali e il diritto di sciopero,
+nell ambito delle leggi che lo regolano. -- Prawa związkowe, wśród których znajdują się:'
+prawo przystępowania do istniejących związków zawodowych lub zakładania nowych, prawo 
+udziału w zebraniach zwołanych przez kierownictwo związków, 
+prawo do urlopów i zwolnień związkowych oraz prawo do strajku, 
+w ramach przepisów prawnych regulujących tę kwestię
+;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
+
+
+
+
+
+#include <iostream>
+using namespace std;
+
+int Mountain1 = 3500;
+int Mountain2 = 3400;
+int Mountain3 = 3300;
+int Mountain4 = 3200;
+int Mountain5 = 3100;
+int Mountain6 = 3000;
+int Mountain7 = 2900;
+int Mountain8 = 2800;
+int Mountain9 = 2700;
+
+int main() {
+
+    int sum = Mountain1 + Mountain2 + Mountain3 + Mountain4 +
+              Mountain5 + Mountain6 + Mountain7 + Mountain8 + Mountain9;
+
+    double average = sum / 9.0;   // 9.0 щоб ділення було не цілочисельне
+
+    cout << "Average height: " << average << endl;
+
+    return 0;
+}
+## 💡 Дуже важливий момент
+
+Якби ти написав:
+
+```cpp
+double average = sum / 9;
+```
+
+то вийшло б **цілочисельне ділення**, і дробова частина загубилась би.
+
+Тому:
+
+* або `9.0`
+* або `static_cast<double>(sum) / 9`
+
+---
+
+## 🚀 А тепер невеликий професійний апгрейд
+
+Те, що ти зробив — правильно для початку.
+
+Але в реальному коді так не пишуть 9 окремих змінних. Краще використовувати масив:
+
+```cpp
+int mountains[9] = {3500, 3400, 3300, 3200, 3100, 3000, 2900, 2800, 2700};
+
+int main() {
+
+    int sum = 0;
+
+    for(int i = 0; i < 9; i++) {
+        sum += mountains[i];
+    }
+
+    double average = sum / 9.0;
+
+    cout << "Average height: " << average << endl;
+
+    return 0;
+}
+```
+
