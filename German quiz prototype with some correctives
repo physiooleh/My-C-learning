@@ -1,88 +1,64 @@
-/* i cannot asleep this night, this program obviously has a lot of bugs
-i was doing these code with 'Blackmore's nighr - Under the violet moon' hehe */
+CZĘŚĆ I - INFORMACJE FINANSOWE - PARTE I - INFORMAZIONI FINANZIARIE
+Pozycja 1. Sprawozdania finansowe - Voce 1 Bilanci
+Skonsolidowane rachunki zysków i strat - Costi economici consolidati
+(niebadane przez biegłego rewidenta - non sottoposti a revisione contabile)
 
-#include <iostream>
-#include <string>
-#include <algorithm>
-#include <vector>
-#include <random>
+Na dizień zakończenia pierwszego kwartału, 31 marca.
+Al termine del primo trimestre, 31 marzo.
 
-using namespace std;
+w milionach, z wyjątkiem kwot przypadających na jedną akcję -
+in milioni, ad eccezione degli importi per azione    2026     2025
 
-struct Werden {
-string text;
-string dieRichtAntwort;
-};
-int main() {
-vector<Werden> werdenListe;
-vector<string> IndikativPrasens = {
-"ich werde",
-"du wirst",
-"er wird",
-"wir werden",
-"ihr werdet",
-"sie werden" };
-for (const auto& TextVonMirVerfasst : IndikativPrasens) {
-werdenListe.push_back({text, "Indikativ Prasens"}); }
+Sprzedaż produktów i sprzętu - Vendite di prodotti e attrezzature
+2026 - 3 174,6
+2025 - 2 901,9
 
-vector<string> IndikativPrateritum = {
-"ich wurde",
-"di wurdest",
-"er wurde",
-"wir wurden",
-"ihr wurdet",
-"sie wurden" };
-for (const auto& TextVonMirVerfasst : IndikativPrateritum) {
-werdenListe.push_back({TextVonMirVerfasst, "Indikativ Prateritum"}); }
+Sprzedaż usług i leasingu - Vendite di servizi e leasing
+2026 - 891,5
+2025 - 793,1
 
-vector<string> IndikativPlusquamperfekt = {
-"ich war geworden",
-"du warst geworden",
-"er war geworden",
-"wir waren geworden",
-"ihr wart geworden",
-"sie waren geworden" };
-for (const auto& TextVonMirVerfasst : IndikativPlusquamperfekt) {
-werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Plusquamperfekt"});}
+==
 
-vector<string> IndikativFuturI = {
-"ich werde werden",
-"du wirst werden",
-"er wird werden",
-"wir werden werden",
-"ihr werdet werden",
-"sie werden werden" };
-for (const auto& TextVonMirVerfasst : IndikativFuturI){
-werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Futur I"});}
+14. PRZYCHODY - 14. RICAVI
+Ujmowanie przychodów - Rilevazione dei ricavi 
 
-vector<string> IndikativFuturII = {
-"ich werde geworden sein",
-"du wirst geworden sein",
-"er wird geworden sein",
-"wir werden geworden sein",
-"wir werden geworden sein",
-"ihr werdet geworden sein",
-"sie werden gewordet sein" };
-for (const auto& TextVonMirVerfasst : IndikativFuturII){
-werdenListe.push_back ({TextVonMirVerfasst, "Indikativ Futur II"});}
+Przychody są mierzone jako kwota wynagrodzenia, którego otrzymanie jest oczekiwane w zamian
+za przekazanie towarów i usług
+..I ricavi sono misurati come l'importo del corrispettivo che si prevede di ricevere in
+cambio del trasferimento di beni o della prestazione di servizi.
 
-random_device rd;
-mt19937g(rd());
-shuffle(werdenListe.begin(), werdenListe.end(), g);
+Produkty i sprzedany sprzęt -
+Prodotti e apparecchiature venduti
+Przychody ze sprzedaży produktów obejmują sprzedaż produktów do czyszczenia, dezynfekcji,
+uzdatniania wody, obróbki procesowej oraz koloidalnej krzemionki.
+..I ricavi da prodotti derivano dalla vendita di prodotti per la pulizia, la sanificazione,
+il trattamento delle acqua, il trattamento dei processi e la silice colloidale.
 
-for(const auto& f : werdenListe) {
-cout << "How to say in German" << f.dieRichtAntwort;
-string Antwort;
-cin >> ws;
-getline(cin, Antwort);
+Ponadto Spółka sprzedajeburządzenia, które mogą być wykorzystywane w połączeniu z jej 
+specjalistycznymi produktami.
+..Inoltre, la Societa vende apparecchiature che possono essere utilizzate in combinazione 
+con i suoi prodotti specializati.
 
-for (char &c : richtigeAntwort) c = toolower(c);
+Przychody ze sprzedaży produktów
+..I ricavi derivanti da prodotti e apparecchiature vendute sono rilevati quando gli 
+obblighi previsti 
 
-if (Antwort == richtigeAntwort) {
-cout << Richtig \n\n";
-] else {
-cout << "Falsch, die richtige Antwort war:" << f.text;
-}
-}
-return 0;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
