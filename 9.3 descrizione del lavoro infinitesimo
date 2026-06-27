@@ -1,0 +1,76 @@
+Quando leggi:
+βW = P dV**
+oppure più correttamente in molti testi:
+dW = P · dV
+..Gdy czytasz 
+betaW uguale à P dV
+ablo bardziej poprawne w wielu podr€cznikach:
+dW uguale a P * dV
+
+stai entrando nella descrizione del lavoro infinitesimo in termodinamica, 
+cioè il lavoro fatto da un gas durante una variazione piccolissima del suo volume.
+..czyli zajmujesz się opisem pracy nieskończenie małej w termodynamice to znaczy pracy
+wykonywanej przez gaz podczas bardzo małej zmiany jego objętości.
+
+1. Che cosa significa “lavoro infinitesimo”?
+..1. Co oznacza praca nieskończenie mała
+
+In fisica e termodinamica, “infinitesimo” significa:
+una variazione talmente piccola da poter essere considerata “istantanea”,
+come un passo matematico differenziale.
+Quindi non parliamo di un’espansione grande, ma di un “micro-cambiamento” del volume.
+..W fizyce i termodynamice "infinitesimo" oznacza: zmiane tak małą, że można ją uznać za 
+"chwilową", jak matematyczny krok różniczkowy.
+Dlatego nie mówimy o dużym rozprężaniu, lecz o "mikrozmianie" objętości.
+
+2. Il contesto fisico: gas in un cilindro
+Immagina un gas dentro un cilindro con un pistone mobile.
+Il gas esercita una pressione P
+Il pistone si muove di pochissimo
+Il volume cambia di una quantità piccolissima dV
+
+Quando il gas si espande:
+spinge il pistone
+quindi compie lavoro
+
+3. Formula: dW = P · dV
+Questa espressione dice:
+
+il lavoro infinitesimo dW è uguale alla pressione del gas P moltiplicata per 
+la variazione infinitesima di volume dV
+
+Interpretazione intuitiva:
+P (pressione) = “quanto forte spinge il gas”
+dV (variazione di volume) = “quanto si espande il gas”
+dW (lavoro) = “energia trasferita dal gas verso l’esterno”
+
+4. Significato profondo (molto importante per il TOLC MED)
+Questa formula è valida perché:
+
+la pressione è considerata **costante solo nell’istante infinitesimo**
+il lavoro nasce dalla forza esercitata su una superficie mobile
+
+Infatti, in forma più fisica:
+lavoro è la forza moltiplicata per lo spostamento
+
+e nella termodinamica:
+la forza deriva dalla pressione
+lo spostamento deriva dal cambiamento di volume
+
+5. Attenzione a un dettaglio concettuale
+
+In molti libri si trova anche:
+dW uguale à -P dV
+Il segno “meno” dipende dalla convenzione:
+se il gas si espande (dV > 0), il gas compie lavoro → energia esce dal sistema
+se il gas si comprime, il lavoro viene fatto sul gas
+
+Quindi il segno serve solo a definire chi “paga” energeticamente.
+
+6. In una frase da esame (livello alto)
+
+Puoi ricordarlo così:
+Il lavoro infinitesimo di un gas durante una trasformazione quasi statica è 
+proporzionale alla pressione istantanea e alla variazione infinitesima di volume, 
+secondo la relazione differenziale dW uguale à P·dV, che deriva dalla definizione 
+meccanica di lavoro applicata a un pistone mobile.
