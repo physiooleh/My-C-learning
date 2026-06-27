@@ -1,0 +1,105 @@
+[per ipot possibilita]Se si studiasse la termodinamica, si potrebbe comprendere il comportamento dell'entalpia e dell'entropia durante le trasformazioni della materia.
+..[konstr warunkowa]Gdyby studiowano termodynamikę, można by zrozumieć zachowanie entalpii i i entropii podczas przemian materii
+
+[per ipot possibilita]Se si proseguisse nello studio, i singoli principi verrebbero spiegati più avanti.
+
+[congiuntivo]Qualora si applicassero i principi della termodinamica, sarebbe possibile prevedere diversi fenomeni.
+..Gdyby zastosowano zasad termodynamiki , możliwe byłoby przewidywanie różnych zjawisk
+
+[pip]Se una trasformazione potesse avere luogo, il sistema potrebbe evolvere spontaneamente.
+..Gdyby jakaś przemiana mogła zajść, układ mógłby ewoluować samorzutnie. 
+
+[pip]Se la trasformazione fosse accompagnata da assorbimento di energia, il sistema potrebbe modificare il proprio contenuto energetico.
+..Gdyby przemianie towarzyszyło pochłanianie energii, układ mógłby zmienić swoją zawartość energetyczną
+
+[pip]Se il sistema raggiungesse lo stato di equilibrio, si potrebbe determinare la composizione finale dei reagenti e dei prodotti.
+..Gdyby układ osiągnął stan równowagi , można by określić końcowy skład reagentów i produktów
+
+[cong]Affinché si possa rispondere a queste domande, è necessario che si conoscano l'influenza dell'entalpia e dell'entropia e il modo in cui esse si combinino per formare l'energia libera.
+..Aby można było odpowiedzieć na te pytania,konieczne jest, by znany był wpływ entalpii i entropii oraz sposób, w jaki łączą się on, tworząc energię swobodną.
+
+[pip]Se la termodinamica considerasse anche il parametro tempo, potrebbe stabilire se una reazione sia realizzabile in tempi brevi.
+..Gdyby termodynamika uwzględniała również parametr czasu, mogłaby określić, czy reakcja jest realizowana w krótkim czasie. 
+
+[cong]Qualora si intendesse analizzare la velocità delle reazioni, sarebbe necessario che si facesse riferimento alla cinetica chimica.
+..Gdyby zamierzano analizować szybkość reakcji, koniecznie byłoby odwołanie się do kinetyki chemicznej.
+
+[cong]Affinché un corpo possa compiere lavoro, è necessario che possieda energia.
+..Aby ciało mogło wykonywać pracę, koniecznie jest, by posiadało energię.
+
+[pip] Se una camera d'aria fosse forata, l'aria si espanderebbe.
+..Gdyby dętka została przebita, powietrze by się rozprężyło
+
+[cong]Affinché un'automobile possa muoversi, è necessario che il combustibile sviluppi energia.
+..Aby samochód mógł się poruszać, koniecznie jest, by paliwo uwalniało energię.
+
+[pip] Se si classificassero le forme di energia, si potrebbero distinguere l'energia cinetica, quella potenziale, l'energia di legame e quella nucleare.
+..Gdyby klasyfikować formy energii, można by wyróżnić energię kinetyczną , potencjalną, energię wiązań oraz energię jądrową.
+
+[cong] Benché non sia possibile determinarne il valore assoluto, è possibile che se ne determinino le variazioni
+..Chociaż nie jest możliwe określenie jej wartości bezwzględnej, możliwe jest określanie jej zmian.
+
+[pip] Se si considerasse il lavoro meccanico, esso potrebbe essere definito come il prodotto della forza per lo spostamento.
+..Gdyby rozważać pracę mechaniczną  można by ją zdefiniować jako iloczyn siły i przemieszczenia. 
+
+[cong] Qualora il gas venisse riscaldato a pressione costante, il pistone si sposterebbe.
+..Gdyby gaz był ogrzewany pod stałym ciśnieniem, tłok by się przesunął.
+
+[pip]Se A rappresentasse la sezione del cilindro, si potrebbe calcolare il lavoro.
+..Gdyby A oznaczało przekrój cylindra, można by obliczyć pracę.
+
+[cong] Qualora si prendesse in esame un'espansione infinitesima, il lavoro infinitesimo risulterebbe pari a:
+δW = PdV
+..Gdyby rozważyć nieskończene rozszerzenie, nieskonczena praca wyniosłaby:
+  betaW = PdV
+/  /
+
+
+[cong] Qualora si volesse rappresentare una quantità infinitesima di lavoro, si dovrebbe utilizzare il simbolo β.
+..Gdybyśmy chcieli przedstawić nieskończenie małą ilość pracy, użyliśbymy symbolu beta. 
+
+[pip] Se il lavoro fosse una funzione di stato, il suo valore non dipenderebbe dal percorso seguito dalla trasformazione.
+..Gdyby praca była funkcją stanu, jej wartość nie zależałaby od ścieżki, jaką przebyła transformacja.
+
+
+[pip] Se un sistema passasse dallo stato 1 allo stato 2, potrebbe scambiare una quantità di lavoro diversa a seconda del percorso seguito.
+..Gdyby system przeszedł ze stanu 1 doo stanu 2, mógłby wymienić różną ilość pracy w zeleżności od wybranej ścieżki.
+
+[cong] Affinché il lavoro possa essere calcolato correttamente, è necessario che vengano sommati tutti i contributi infinitesimi.
+..Aby poprawnie obliczyć pracę, należy dodać do siebie wszystkie nieskończenie małe wkłady 
+
+[pip] Se si conoscesse la relazione tra pressione e volume, si potrebbe calcolare il lavoro.
+..Gdyby znana była zależność między ciśnieniem i objętością, można byłoby obliczyć pracę.
+
+[pip] Se la pressione fosse costante, P potrebbe essere portata fuori dal segno di integrale.
+..Gdyby ciśnienie było stale, P można by wyjąć ze znaku całki.
+
+[cong] Affinché il calore venga trasferito, è necessario che esista una differenza di temperatura.
+..Aby ciepło mogło zostać przeniesione, jest obowiązkowe by istniała różnica temperatur.
+
+[pip] Se si utilizzasse la caloria come unità di misura, essa rappresenterebbe il calore necessario per aumentare di un grado Celsius la temperatura di un grammo d'acqua.
+..Gdybyśmy mieli użyć kalorii jako jednostki miary, oznaczałaby ona iłość ciepła potrzebną do podniesienia temperatury jednego grama wody o jeden stopień Celsjusza. 
+
+[cong] Qualora si volesse dimostrare il legame tra lavoro meccanico e calore, si potrebbe ripetere l'esperimento di Joule.
+
+[pip] Se si confrontassero il lavoro e il calore, si potrebbe determinare il loro rapporto quantitativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
