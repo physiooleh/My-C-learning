@@ -1,20 +1,779 @@
-#include <iostream>
-using namespace std;
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM 10-K
+☑
+☐
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ 
+SECURITIES EXCHANGE ACT OF 1934  
+For the fiscal year endedDecember 31, 2025  
+or  
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+ 
+SECURITIES EXCHANGE ACT OF 1934  
+For the transition period from          
+to         
+Commission file number: 1-35229
+Xylem Inc.
+(Exact name of registrant as specified in its charter)
+Indiana 
+(State or other jurisdiction of incorporation or
+organization) 
+301 Water Street SE, Washington, DC 20003
+(Address of principal executive offices and zip code)
+(202) 869-9150
+(Registrant's telephone number, including area code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+45-2080495
+(I.R.S. Employer Identification No.)
+Name of each exchange on which registered
+Common Stock, par value $0.01 per share
+XYL
+New York Stock Exchange
+Securities registered pursuant to Section 12(g) of the Act: None
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  ☑  No  ☐
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.      
+Yes  ☐  No  ☑
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past
+90 days.  Yes  ☑  No  ☐
+Indicate by check mark whether the registrant has submitted electronically, if any, every Interactive Data File required to be submitted pursuant to Rule 405 of
+Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such
+files).  Yes  ☑  No  ☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging
+growth company. See definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the
+Exchange Act. (Check one):
+Large Accelerated Filer  ☑        
+Accelerated Filer  ☐        
+Non-Accelerated Filer  ☐       
+Smaller reporting company  ☐Emerging growth company ☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised
+financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant has filed a report on and attestation to its management’s assessment of the effectiveness of its internal control over
+financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting firm that prepared or issued its audit
+report. Yes ☑ No  ☐
+If securities are registered pursuant to Section 12(b) of the Act, indicate by check mark whether the financial statements of the registrant included in the filing reflect
+the correction of an error to previously issued financial statements. ☐
+Indicate by check mark whether any of those error corrections are restatements that required a recovery analysis of incentive-based compensation received by any of
+the registrant’s executive officers during the relevant recovery period pursuant to §240.10D-1(b). ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).  Yes  ☐  No  ☑
+The aggregate market value of the common stock of the registrant held by non-affiliates of the registrant as of June 30, 2025 was approximately $31.0 billion. As of
+February 20, 2026, there were 243,141,405 outstanding shares of the registrant’s common stock, par value $0.01 per share.
+DOCUMENTS INCORPORATED BY REFERENCE
+Portions of the registrant’s definitive proxy statement for its 2026 Annual Meeting of Shareowners, to be held in May 2026, are incorporated by reference into Part II
+and Part III of this Report.
+Xylem Inc.
+ANNUAL REPORT ON FORM 10-K
+For the fiscal year ended December 31, 2025
+Table of Contents
+ 
+ITEM PAGE
+PART I
+1 Business 4
+1A. Risk Factors 15
+1B. Unresolved Staff Comments 26
+1C. Cyber Security 26
+2 Properties 28
+3 Legal Proceedings 29
+4 Mine Safety Disclosures 29
+* Information about our Executive Officers 30
+Board of Directors 31
+PART II
+5 Market for the Registrant’s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities 32
+6 Reserved 33
+7 Management’s Discussion and Analysis of Financial Condition and Results of Operations 34
+7A. Quantitative and Qualitative Disclosures About Market Risk 53
+8 Financial Statements and Supplementary Data 54
+9 Changes In and Disagreements With Accountants on Accounting and Financial Disclosure 113
+9A. Controls and Procedures 113
+9B. Other Information 113
+9C. Disclosure Regarding Foreign Jurisdictions that Prevent Inspections 113
+PART III
+10 Directors, Executive Officers and Corporate Governance 115
+11 Executive Compensation 115
+12 Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters 115
+13 Certain Relationships and Related Transactions, and Director Independence 115
+14 Principal Accounting Fees and Services 115
+PART IV
+15 Exhibits, Financial Statement Schedules 116
+16 Form 10-K Summary 120
+Signatures 120
+ 
+* Included pursuant to the Instruction to Item 401(b) of Regulation S-K.
+2
+PART I
+The following discussion should be read in conjunction with the consolidated financial statements, including the notes, included elsewhere in
+this Annual Report on Form 10-K (this "Report").
+Forward-Looking Statements
+This Report contains “forward-looking statements" within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of
+the Securities Exchange Act of 1934, as amended. Generally, the words “anticipate,” “estimate,” “expect,” “project,” “intend,” “plan,” "contemplate,"
+"predict," "outlook," “forecast,” “likely,” “believe,” “target,” “goal,” “objective,” “will,” “could,” “would,” “should,” "potential," "may" and similar
+expressions or their negative, may, but are not necessary to, identify forward-looking statements. By their nature, forward-looking statements
+address uncertain matters and include any statements that: are not historical, such as statements about our strategy, financial plans, outlook,
+objectives, plans, intentions or goals (including those related to our social, environmental and other sustainability goals); or address possible or
+future results of operations or financial performance, including statements relating to orders, revenues, operating margins and earnings per share
+growth.
+Although we believe that expectations reflected in any of our forward-looking statements are reasonable, actual results could differ materially from
+those projected or assumed in any of our forward-looking statements. Our future financial condition, results of operations, and any forward-looking
+statements are subject to change and to inherent risks and uncertainties, many of which are beyond our control. Important factors that could cause
+our actual results, performance and achievements, or industry results to differ materially from estimates or projections contained in or implied by our
+forward-looking statements include, among others, the following: the impact of overall industry and general economic conditions, including industrial,
+governmental, and public and private sector spending, interest rates, availability of funding for customers, inflation and governments’ related
+monetary policy in response, and the strength of the real estate markets, on economic activity and our operations; geopolitical matters, including
+nationalism, protectionism and anti-global sentiment, volatility involving the U.S. and other governments, ongoing, escalation or outbreak of
+international conflicts, and regulatory, trade protection, economic and other risks associated with our global sales and operations; manufacturing and
+operating cost increases due to macroeconomic conditions, including inflation, energy supply, supply chain shortages, logistics challenges, labor
+shortages, trade agreements, tariffs, and other trade protection measures, and other factors; demand for our products, disruption, competition or
+pricing pressures in the markets we serve; cybersecurity incidents, data breaches, or other disruptions of information technology systems on which
+we or our customers rely, or involving our connected products and services; lack of availability or delays in receiving parts and raw materials from
+our supply chain, including semiconductors or other key components; operational disruptions at our facilities or that of third parties upon which we
+rely; safe and compliant treatment and handling of water, wastewater and hazardous materials; failure to successfully execute large projects,
+including as respects performance guarantees and customers’ budgets, timelines and safety requirements; our ability to retain, compete for and
+attract leadership, other key talent and labor; defects, security, warranty and liability claims, and recalls related to our products; uncertainty around
+productivity, simplification, restructuring and realignment actions and related costs and savings; our ability to execute strategic investments for
+growth, including acquisitions and divestitures; availability, regulation or interference with radio spectrum used by certain of our products; volatility in
+served markets or impacts on our business and operations due to weather conditions, volatile weather events, or changing climate patterns; risks
+related to our sustainability efforts and related disclosures; fluctuations in foreign currency exchange rates; difficulty predicting our financial results;
+risk of future impairments to goodwill and other intangible assets; changes in our effective tax rates or tax expenses; failure to comply with, or
+changes in, laws or regulations pertaining to our business conduct, operations, products and services, including anti-corruption, artificial intelligence,
+data privacy and security, trade, competition, the environment, and health and safety; legal, governmental or regulatory claims, investigations or
+proceedings and associated contingent liabilities; matters related to intellectual property infringement or expiration of rights; and other factors set
+forth under “Item 1A. Risk Factors” in this Report and in subsequent filings we make with the Securities and Exchange Commission (“SEC”).
+Forward-looking and other statements in this Report regarding our environmental and other sustainability efforts, plans and goals are not an
+indication that these statements are necessarily material to investors, to our business, operating results, financial condition, outlook, or strategy, to
+our impacts on sustainability matters or other parties, or are required to be disclosed in our filings with the SEC or other regulatory authorities, and
+are not intended to create legal rights or obligations. In addition, historical, current, and forward-looking social, environmental and sustainability
+related statements may be based on: standards for measuring progress that are still developing; internal controls and processes that continue to
+evolve, and assumptions that are subject to change in the future. All forward-looking statements made herein are based on information currently
+available to us as of the date of this Report. We undertake no obligation to publicly update or revise any forward-looking statements, whether as a
+result of new information, future events or otherwise, except as required by law.
+3
+ITEM 1.    BUSINESS
+PUNTO 1. ATTIVITÀ D'IMPRESA
+Panoramica dell'attività
+Xylem è un'azienda leader a livello mondiale nel settore delle tecnologie
+per l'acqua, con ricavi pari a 9,0 miliardi di dollari nel 2025 e circa 
+22.000 dipendenti in tutto il mondo. 
+Progettiamo, produciamo e forniamo assistenza per prodotti e soluzioni ingegnerizzate destinate 
+a un'ampia varietà di applicazioni critiche, principalmente nel settore idrico.
+Il nostro ampio portafoglio di prodotti, servizi e soluzioni risponde alle esigenze dei clienti 
+in termini di scarsità, resilienza, qualità e accessibilità economica lungo l'intero ciclo dell'acqua, 
+dalla distribuzione, al trattamento, alla misurazione e all'utilizzo dell'acqua potabile, fino alla raccolta, 
+al collaudo, all'analisi e al trattamento delle acque reflue, nonché alla restituzione dell'acqua all'ambiente.
+Occupiamo posizioni di mercato differenziate nelle principali applicazioni, tra cui il trasporto e il drenaggio 
+delle acque, il trattamento delle acque di processo e delle acque reflue, l'analisi, la misurazione intelligente, 
+le soluzioni software digitali e i servizi integrati. 
+Ciò che ci distingue è un insieme unico di risorse globali che comprende:
+• Marchi leader di mercato, alcuni dei quali sono utilizzati da oltre 100 anni
+• Reti di distribuzione globali costituite da forze vendita dirette e partner 
+di canale indipendenti che servono una clientela diversificata in circa 150 Paesi
+• Una consistente base installata a livello globale di prodotti e soluzioni lungo 
+l'intero ciclo dell'acqua che garantisce ricavi costanti derivanti da componenti 
+di ricambio, sostituzioni e servizi
+• Una solida tradizione nella fornitura ai clienti di prodotti, servizi, soluzioni 
+e modelli di business innovativi
+• Un gruppo di dipendenti dedicati, esperti, qualificati e tecnologicamente avanzati, 
+impegnati a soddisfare in sicurezza le esigenze dei clienti relative al trasporto, al 
+trattamento o alla misurazione dell'acqua pulita o delle acque reflue e alla misurazione 
+del consumo di energia
+• Una solida posizione finanziaria e una rilevante capacità di generazione di cassa che ci 
+consentono di finanziare iniziative strategiche di crescita sia organica sia per linee 
+esterne e di restituire costantemente capitale agli azionisti
+• Un comprovato impegno nei confronti della governance societaria, della sostenibilità sociale 
+e ambientale e della creazione di un impatto positivo per i nostri clienti, le comunità e 
+i dipendenti
 
-int main(){
-alignas(16) int numerators[] = {7, 14, 9, 20, 17};
-alignas(16) int denominators[] = {3,4,2,6,5};
-int n = 5;
+Salvo diversa indicazione o salvo che il contesto richieda diversamente, i termini «Xylem», 
+«noi», «ci», «nostro» e «la Società» si riferiscono a Xylem Inc. 
+e alle sue società controllate.
 
-for(int i = 0; i < n; i++) {
-int a = numerators[i];
-int b = denominators[i];
-int quotient = a/b;
-int remainder = a%b;
 
-cout << a << "/" << b
-<< "=" << quotient
-<< ", ostacza" << remainder
-<< endl;
-}
-}
+Il nostro settore
+La nostra visione è creare un mondo in cui le problematiche legate all'acqua non 
+costituiscano più un ostacolo alla salute, alla prosperità e allo sviluppo sostenibile. 
+Il nostro obiettivo è mettere i nostri dipendenti, clienti e le comunità nelle condizioni 
+di costruire un mondo con una maggiore sicurezza idrica.
+Il nostro pianeta deve affrontare gravi sfide legate all'acqua. 
+Meno dell'1% dell'acqua complessivamente disponibile sulla Terra è costituito da acqua dolce e 
+la sua disponibilità è minacciata da fattori quali l'esaurimento delle falde acquifere, 
+l'aumento dell'inquinamento e il cambiamento dei modelli climatici. 
+La domanda di acqua dolce è in rapido aumento a causa della crescita della popolazione, 
+dell'espansione industriale e dell'incremento dello sviluppo agricolo, con un consumo che 
+si stima raddoppierà ogni vent'anni. 
+Si prevede che entro il 2030 vi sarà un divario del 40% tra l'offerta e la domanda globale di acqua. 
+Anche nei Paesi sviluppati, dove l'approvvigionamento di acqua potabile è sufficiente, 
+le infrastrutture idriche esistenti stanno invecchiando e sono spesso inefficienti. 
+Negli Stati Uniti, il deterioramento delle reti di condotte, i furti o i contatori imprecisi 
+fanno sì che circa un gallone su cinque dell'acqua trattata e trasportata venga perso prima 
+di raggiungere il cliente finale.
+Il problema dell'acqua «non fatturata» rappresenta una delle principali sfide finanziarie per molti gestori 
+dei servizi idrici a livello mondiale, soprattutto nei mercati in via di sviluppo, dove l'acqua 
+non fatturata può rappresentare dal 10% a oltre il 60% dell'acqua netta prodotta e dove i costi di trattamento 
+e l'energia necessaria per il trasporto dell'acqua sono considerevoli. 
+Si stima che circa il 4% dell'energia elettrica mondiale sia utilizzato per movimentare e trasportare l'acqua. 
+Queste e altre sfide creano opportunità di crescita per il settore idrico globale. 
+Stimiamo che la dimensione complessiva del mercato potenzialmente indirizzabile dell'industria idrica mondiale, 
+escluse le spese operative relative a manodopera, energia e prodotti chimici, sia pari a circa 800 miliardi 
+di dollari.
+Le esigenze idriche globali non possono essere soddisfatte senza razionalizzare la struttura dei costi 
+dell'industria dell'acqua mediante tecnologie che trasformino radicalmente la fornitura e la gestione dell'acqua. 
+Competiamo in ambiti fondamentali per migliorare l'«accessibilità economica dell'acqua», la «qualità dell'acqua» 
+e la «resilienza», riducendo al contempo l'impatto della «scarsità idrica». 
+Per «accessibilità economica dell'acqua» si intende una distribuzione, un utilizzo e un trattamento più efficienti 
+dell'acqua pulita e delle acque reflue. 
+Per «qualità dell'acqua» si intende l'idoneità dell'acqua a uno specifico utilizzo sulla base delle sue caratteristiche fisiche, chimiche e biologiche. Per «resilienza» si intende la gestione dei rischi connessi all'acqua, compreso l'adattamento ai cambiamenti dei modelli climatici e la resilienza delle infrastrutture idriche. Per «scarsità idrica» si intende la gestione della limitata disponibilità di acqua dovuta agli impatti ambientali, alla sovrappopolazione e all'inquinamento.
+
+I nostri clienti si trovano spesso ad affrontare tutte e quattro queste sfide, che spaziano da reti di distribuzione dell'acqua inefficienti e obsolete e sistemi di gestione delle acque potabili e reflue ad alta intensità energetica o inaffidabili (riducendo l'accessibilità economica dell'acqua), alla crescente variabilità della qualità delle acque in ingresso, unitamente al deflusso delle acque meteoriche, agli scarichi industriali e ai contaminanti emergenti (con impatto sulla qualità dell'acqua), fino all'esposizione a calamità naturali come le alluvioni (che richiedono un miglioramento della resilienza) oppure a siccità e inquinamento che limitano la quantità di acqua prontamente disponibile (causando scarsità idrica).
+
+Inoltre, forniamo anche soluzioni per migliorare le comunicazioni e l'efficienza, aumentare la sicurezza e preservare le risorse per i clienti del settore idrico. La creazione di valore in questi ambiti rappresenta una significativa opportunità per l'azienda.
+
+
+
+Company.
+The Global Water Industry Value Chain
+The water industry value chain includes Equipment, Technology and Services companies, like Xylem, that address the unique challenges
+and demands of a diverse customer base. This customer base includes water and wastewater utilities that supply, treat and monitor clean
+water or transport, treat and analyze wastewater or storm water through an infrastructure network, and engineering, procurement and
+construction ("EPC") firms and third-party contractors, that work with utilities to design and build water and wastewater infrastructure
+networks, as depicted below. Utilities and other customers require products, services, solutions, technology and application expertise from
+their Equipment, Technology and Services providers to address trends such as rising pollution, stricter regulations, increasing operational
+costs and the increased outsourcing of process knowledge. In addition to utilities, Equipment, Technology and Service companies also
+provide distinct technologies, services, and application expertise to a wide array of entities, including farms, mines, power plants, industrial
+facilities, such as food and beverage and pharmaceutical manufacturers, and residential and commercial customers seeking to address
+similar trends.
+Water Industry Supply Chain
+Business Strategy
+Our overarching strategy is to help customers solve the world's greatest water challenges with innovative products, services and solutions to
+deliver sustainable economic, social and environmental benefits. The following strategic pillars guide where and how we focus our efforts and
+resources to implement this strategy:
+• Customer Centricity. We are putting the needs and experiences of our customers at the forefront of everything we do. By listening
+to our customers and understanding their challenges, we aim to deliver innovative solutions that not only meet but exceed their
+expectations. This approach helps us build strong, lasting relationships and aligns our products and services with customer needs.
+We leverage the 80/20 principle to focus on the most impactful opportunities to drive value for our customers. Additionally, we seek
+to create synergies across our businesses to enhance customer value and streamline operations. We are committed to simplifying
+how we do business and equipping our sales teams with the tools, training and
+5
+insights needed to engage with customers effectively. We emphasize transactional excellence to aim for every customer interaction
+to be seamless, efficient and value-driven. We aspire for our customers to be enthusiastic advocates for our brands.
+• Profitable Growth. We prioritize profitable growth to drive long-term success. By applying the 80/20 principle, we focus on the most
+impactful opportunities to create significant customer value. We aim to expand our capabilities, optimize our product portfolio, and
+drive profitable revenue growth through strategic investments and partnerships. By implementing strategic pricing, we maximize
+profitability and enhance our competitive position. Additionally, we are dedicated to building high-margin, recurring revenue in
+growing markets, intelligent solutions and services. Our goal is to deliver consistent financial performance that benefits our
+shareholders and supports our long-term vision, building a stable and prosperous future for the Company.
+• Operational Excellence. We are committed to being a leading operator by continuously improving our processes, systems and
+capabilities to enhance efficiency and effectiveness. By applying the 80/20 principle to streamline our business, we aim to enhance
+throughput, reduce inventory and improve product quality and customer response time. Implementing lean continuous improvement
+practices allows us to reduce waste and enhance the speed and ease with which customers do business with us, making our
+operations more efficient and effective. We are dedicated to modernizing our systems to support productivity for growth and maintain
+operations that are agile and responsive. Through our Xylem Management System and Goal Deployment Process, we align our
+efforts with our strategic objectives, driving disciplined execution and operational excellence. This commitment to excellence helps us
+remain competitive and enables us to respond quickly to changing market and customer demands. Ultimately, we aim to run our
+company with discipline, maintaining operations that are streamlined and consistently aligned with our strategic goals.
+• Sustainability Leadership. We strive to be a sustainability leader by integrating sustainability into our business strategy, with a
+strong emphasis on advancing favorable long-term financial and sustainability outcomes for our customers through our products,
+services and solutions. We also aim to minimize our environmental impact, promote resource conservation and support our
+customers and the communities we serve together. Our priorities are focused in three areas: decarbonizing the water sector,
+accelerating corporate water stewardship, and advancing water, sanitation and hygiene ("WASH") access and capacity building.
+Additionally, we are partnering with venture impact funds, philanthropic organizations, customers and suppliers to develop long-term
+commercial opportunities in new markets. Our sustainability leadership, including volunteering by our employees, provides Xylem
+with distinct advantages in competitive talent markets.
+• High-Impact Culture. We continuously refine Xylem’s operating model to better serve our customers and create value for our
+shareholders. Our organizational culture is fundamental to those objectives. We have activated our high-impact culture through three
+high-impact behaviors: inspired to innovate, empowered to lead, and accountable to deliver. These behaviors drive our employees to
+learn and innovate every day, to understand their role in contributing to our purpose and strategy, and to deliver on our commitments
+to our investors, customers and communities. Within the framework of these behaviors, we encourage a collaborative and inclusive
+work environment and are keenly focused on simplifying our organization and processes to drive daily and break-through efficiency
+and innovation.
+Our strategy firmly embeds sustainability at the heart of our competitive advantage and unique business model and aligns each of our five
+strategic pillars to the overarching goal of integrating sustainability into everything we do.
+While our strategy will evolve in response to the changing world, our four values are the enduring principles that go to the heart of who we
+are and guide how we conduct ourselves each day: Respect, Responsibility, Integrity and Creativity.
+Business Segments, Distribution and Competitive Landscape
+We have four reportable business segments that are aligned around the critical market applications they provide: Water Infrastructure,
+Applied Water, Measurement and Control Solutions, and Water Solutions and Services. See Note 21, “Segment and Geographic Data,” in
+our consolidated financial statements for financial information about segments and geographic areas.
+6
+The table and descriptions below provide an overview of our business segments:
+Market
+Applications
+2025 Revenue
+(in millions)
+%
+Revenue Major Products Primary Brands
+Water
+Infrastructure
+Transport $ 1,556 59 % •Water and wastewater
+pumps
+• Filtration, disinfection and
+biological treatment
+equipment
+ 
+• Flygt
+• Ionpure
+• Leopold
+•Neptune Benson
+• Sanitare
+•Wallace & Tiernan
+•Wedeco
+ 
+ 
+Treatment 1,080 41 %
+$ 2,636 100 %
+  
+Applied
+Water Building Solutions $ 1,037 56 % • Pumps
+• Valves
+•Heat exchangers
+•Controls
+•Dispensing equipment
+systems
+ 
+• Bell & Gossett
+• Flojet
+•Goulds Water
+Technology
+• Jabsco
+• Lowara
+•Rule
+Industrial Water 812 44 %
+$ 1,849 100 %
+Measurement
+and Control
+Solutions
+Smart Metering and
+Other $ 1,726 83 %
+• Smart meters
+•Network communication
+devices
+•Data analytics
+• Test instruments
+•Controls
+• Sensor devices
+• Software & managed
+services
+•Critical infrastructure
+services
+• Ebro
+• Sensus
+• Sentec
+• Smith Blair
+•WTW
+• YSI
+• Xylem Vue
+ 
+ 
+ 
+ 
+Analytics 360 17 %
+$ 2,086 100 %
+  
+Water Solutions
+and Services Capital and Other $ 1,459 59 % • Preventative maintenance
+services
+•Rapid response mobile
+services
+•Digitally
+enabled/outsourced
+solutions
+• Process and wastewater
+treatment systems
+• Environmental
+remediation
+•Odor and corrosion
+control
+• Filtration
+•Reverse osmosis
+•Continuous deionization
+•Mobile dewatering
+equipment and rental
+services
+•Godwin
+•Grindex
+•Mar Cor Services 1,005 41 %
+$ 2,464 100 %
+7
+Water Infrastructure
+Through two closely linked applications, transport and treatment, our Water Infrastructure segment primarily supports the process that
+collects water from a source, treats it and distributes it to users, and then treats and returns the wastewater responsibly to the environment.
+The customer base consists of two primary end markets: utility and industrial. The utility market includes public, private and public-private
+entities that support water, wastewater and storm water networks. The industrial market includes customers that require similar water and
+wastewater infrastructure applications to support various industrial operations.
+Water Infrastructure sells through a combination of direct channels, indirect channels and service capabilities. Both utility and industrial
+facility customers increasingly require our teams’ global but locally proficient expertise to use our equipment in their specific applications.
+Several trends are increasing demand for this application expertise: (i) the need for efficient transport and treatment solutions due to the
+increase in water scarcity and electricity costs, (ii) the increase in both the type and amount of contaminants found in the water supply, (iii)
+the need to increase system resilience and efficiencies due to aged infrastructure and affordability, (iv) increasing environmental regulations,
+and (v) the need to reduce carbon emissions generated from transporting and treating water.
+Given the highly fragmented nature of the water industry, the Water Infrastructure segment competes with a large number of businesses and
+no one business competes across all the markets Water Infrastructure serves. We differentiate ourselves in the market by focusing on
+product and service performance, quality and reliability, innovation, speed to market with new or disruptive technologies and business
+models, application expertise, brand reputation, energy efficiency, product security, product life-cycle cost, timeliness of delivery,
+effectiveness of our distribution channels, customers' experience and our global installed base.
+Applied Water
+Applied Water encompasses the uses of water to serve a diverse set of customers in the building solutions and industrial water end markets.
+Residential consumers represent the end users in the residential market, while owners and managers of properties, such as apartment
+buildings, retail stores, institutional buildings, restaurants, schools/universities, hospitals and hotels, are examples of end users in the
+commercial market. The industrial market includes original equipment manufacturers, exploration and production firms, agricultural
+customers, and developers and managers of industrial facilities, such as chemical manufacturers, marine, food and beverage companies,
+data centers and car washes.
+In the Applied Water segment, end markets vary widely and, as a result, specialized distribution partners are often preferred. As such, the
+Applied Water segment provides the majority of its sales through strong indirect channels with the remaining sales going through our global
+direct sales channels. We have long-standing relationships with many of the leading independent distributors in the markets we serve and
+we provide incentives to distributors, such as specialized loyalty and training programs.
+Population growth and urbanization, changing climate patterns and regulation on energy efficiency, and digitalization enabling self-service
+and preventive maintenance are macro growth drivers of these markets, driving the need for housing, commercial real estate, food,
+community services and retail goods within growing city centers.
+Competition in the Applied Water segment focuses on brand reputation, application expertise, product delivery, performance and energy
+efficiency, quality, reliability and price. We compete by offering innovative and high-quality products, coupled with world-class application
+expertise. We believe our distribution through well-established channels and our reputation for quality significantly enhances our market
+position. Our ability to deliver innovative product offerings has enabled us to compete effectively, cultivate and maintain customer
+relationships and serve and expand into many niche and new markets.
+8
+Measurement and Control Solutions
+Measurement and Control Solutions develops advanced technology solutions that enable intelligent use, optimization and conservation of
+critical water and energy resources. This segment delivers communications, smart metering, measurement and control capabilities and
+critical infrastructure technologies that allow customers to more effectively use their distribution networks for the delivery, monitoring and
+control of critical resources, such as water, electricity and natural gas. We also provide analytical instrumentation used to measure and
+analyze water quality, flow and level in clean water, wastewater and outdoor water environments. Additionally, we offer software and
+services including cloud-based analytics, and remote monitoring and data management.
+At the heart of our leading technologies are automation, data management and decision support. Our communication network enables
+customers to automate and optimize meter reading, bill customers, monitor flow rates and detect and enable rapid response to changing
+and unsafe conditions. In short, our communication offerings provide insights into operations and enable our customers to manage the
+entire scope of their operations remotely through their networks and to optimize their operational costs. At the center of our offering is the
+FlexNet communication network, which provides a common communication platform and infrastructure for essential metering services. This
+two-way communication technology remotely connects a wide variety of smart points in a given network with protocols, frequently on
+Federal Communications Commission ("FCC") licensed spectrum in the U.S., to enable reliable, resilient and secure transmissions. These
+technologies allow our customers to remotely and continuously monitor their water and energy distribution infrastructure, prioritize and
+manage maintenance, and use data to optimize many aspects of their networks. Our digital software solutions complement these offerings
+with intelligent applications that help utility decision-makers manage and maintain their networks more effectively in real time.
+The majority of our sales in North America are conducted through strong, long-standing relationships with leading distributors and
+dedicated channel partners for the water and energy markets. Outside of North America, nearly all of our sales are for the water market.
+Direct sales are often made in markets without established distribution channels; however, some distribution channels are used in more
+developed markets. A direct sales approach, with key account management, is employed for large utilities and government programs.
+Macro growth drivers include increasing regulation, aging infrastructure, optimizing operational costs and worldwide movement towards
+smart grid implementation and advanced metering infrastructure. Water scarcity and conservation, as well as the need to prevent revenue
+loss (via inaccurate meter readings, leaks or theft) are among the drivers of smart meter and leak detection technologies.
+Our metering business is well positioned in the North America smart metering sector, the fastest growing sector of the global meter
+industry. We set ourselves apart in the industry by focusing on our communication network, innovation, new product development and
+service offerings which deliver tangible savings by supporting operational efficiencies in meter reading and billing, and reducing non
+revenue water through improved meter accuracy, reduced theft, and leak identification. Our water quality instruments have a strong
+position in the analytical instrumentation market and provide critical readings of various water quality, level and flow parameters for
+customers. Xylem Vue is a unified software analytics platform built for water utilities to manage their operations from end-to-end. We
+provide a differentiated offering in the reliability and accuracy of our products often in rugged, remote and hazardous locations.
+Water Solutions and Services
+Our Water Solutions and Services segment provides tailored services and solutions, in collaboration with customers, including on‑demand
+water, outsourced water, recycle/reuse, specialty dewatering and emergency response service alternatives, to improve operational
+reliability, performance and environmental compliance. Key offerings within this segment also include equipment systems for industrial
+needs (influent water, boiler feed water, ultrahigh purity, process water, wastewater treatment, and recycle/reuse), full-scale outsourcing of
+operations and maintenance, and municipal services, including odor and corrosion control services and pipeline assessment services, as
+well as leak detection, condition assessment and asset management and pressure monitoring solutions. The Water Solutions and Services
+segment also includes the sale and rental of specialty dewatering pumps, scalable products, and related equipment, technology and
+services, which provide the safe removal or draining of groundwater and surface water from construction sites or other industrial sites, and
+bypass pumping for the repair of aging utility infrastructure, as well as emergency water transport and removal during severe weather
+events.
+Our Water Solutions and Services segment reaches customers across industrial vertical markets, such as life sciences, microelectronics,
+food and beverage, chemical processing and power generation, and various municipalities. In order to reach these customers, we leverage
+our application expertise in process water and
+9
+wastewater treatment, our internal and external partners, and extensive service branch networks across the globe, including a rental fleet
+of transfer and treatment assets.
+Macro growth drivers include water scarcity, emerging contaminants, increasing regulation surrounding climate and energy efficiency,
+pressure to optimize energy efficiency and other operational costs, and demand arising from emergency response needs.
+Geographic Profile
+The table below illustrates the annual revenue and percentage of revenue by geographic area for each of the three years ended
+December 31.
+Revenue
+(in millions)
+2025
+2024
+2023
+$ Amount
+% of Total
+United States
+$
+5,209 
+$ Amount
+58 % $ 4,862 
+% of Total
+$ Amount
+57 % $ 3,956 
+% of Total
+54 %
+Western Europe
+1,839 
+20 %
+Emerging Markets (a)
+1,221 
+14 %
+1,745 
+1,274 
+20 %
+15 %
+1,655 
+1,182 
+22 %
+16 %
+Other 766 8 % 681 8 % 571 8 %
+Total
+$ 9,035 $ 8,562 $ 7,364 
+(a) Emerging Markets includes results from the following regions: Eastern Europe, the Middle East and Africa, Latin America and Asia Pacific
+(excluding Japan, Australia and New Zealand, which are included in "Other")
+Supply and Seasonality
+We have a global manufacturing and assembly footprint, with production facilities in Europe, North America, Latin America, Asia and the
+Middle East. All of our businesses require various parts and raw materials, the availability and prices of which may fluctuate. Parts,
+components and raw materials commonly used in our products include motors, fabricated parts, castings, magnets, bearings, seals,
+batteries, printed circuit boards ("PCBs") and electronic components, including semiconductors, as well as commodities, including steel,
+brass, nickel, copper, aluminum, rare earth minerals and plastics. While we may recover some cost increases through operational
+improvements, we are still exposed to pricing risk, including due to duty and tariff assessments by the U.S. or other governments on foreign
+imports. We attempt to control costs through fixed-priced contracts with suppliers and various other programs, such as our global
+procurement initiative.
+Our business relies on third-party suppliers, contract manufacturing and commodity markets to secure raw materials, parts and
+components used in our products. We typically acquire materials and components through a combination of blanket and scheduled
+purchase orders to support our materials requirements. For many of our products, we have existing alternate sources of supply, or such
+sources may be readily available.
+We have experienced price volatility and supply constraints when materials have not been available from multiple sources. From time to
+time, we acquire certain inventory in anticipation of supply constraints or enter into longer-term pricing commitments with suppliers to
+improve the priority, price and availability of supply.
+Our business segments experience a modest level of seasonality in their operations. This seasonality is dependent on factors such as
+customers' capital spending, as well as the effects of severe weather-related conditions, including heavy flooding, prolonged droughts and
+fluctuations in temperatures or weather patterns, all of which can positively or negatively impact portions of our business.
+Customers
+Our business is not dependent on any single customer or a few customers, the loss of which would have a material adverse effect on our
+Company. No individual customer accounted for more than 5% of our consolidated revenues in 2025, 2024 or 2023.
+Backlog
+Backlog includes orders on hand as well as contractual customer agreements at the end of the period. Delivery schedules vary from
+customer to customer based on their requirements. Annual or multi-year contracts are subject to rescheduling and cancellation by customers
+due to the long-term nature of the contracts. As such, beginning total backlog, plus orders, minus revenues, will not equal ending total
+backlog due to contract adjustments, foreign currency fluctuations and other factors. Typically, capital projects require longer lead production
+cycles and deployment schedules, and delays occur from time to time. Total backlog was $4,615 million at December 31, 2025
+10
+and $5,070 million at December 31, 2024. We anticipate that approximately 60% of the backlog at December 31, 2025 will be recognized as
+revenue during 2026.
+Research and Development
+Research and development (“R&D”) is a key foundation of our growth strategy, and we focus on the design and development of products,
+services, solutions and application know-how that address anticipated customer needs and emerging trends. Our engineers are involved in
+new product, service and solution development as well as improvement of existing products, services and solutions to increase customer
+value. Our businesses invest substantial resources into R&D. We anticipate we will continue to develop and invest in our R&D capabilities to
+promote a steady flow of innovative, high-quality and reliable products and integrated solutions to further strengthen our position in the
+markets we serve.
+We have R&D capabilities around the world. R&D activities are initially conducted in our technology centers, some of which are located in
+conjunction with some of our major manufacturing facilities to enable an efficient and robust development process. We have several global
+technical centers and local development teams where we are supporting global needs and accelerating the customization of our products,
+services and solutions to address local needs. In some cases, our R&D activities are conducted at our piloting and testing facilities and at
+strategic customer sites. These piloting and testing facilities enable us to serve our strategic markets globally. As part of expanding our
+bandwidth and to increase our access to technology, we have built innovation eco-system partnerships with academic institutions as well as
+other technology firms, start-up accelerators and venture capital organizations.
+Capitalized Software
+We offer software as a product or service directly to external customers, which is included within "Other intangible assets, net" on our
+Consolidated Balance Sheets. As of December 31, 2025 and 2024, we had net capitalized software used in sales and services to external
+customers of $175 million and $185 million, respectively.
+Intellectual Property
+We generally seek patent protection for inventions that we believe will improve our competitive position and are not suitable to be kept as a
+trade secret. While we own, control or license a significant number of patents, trade secrets, proprietary information, trademarks, trade
+names, copyrights and other intellectual property rights which, in the aggregate, are important to our business, management believes that our
+business, as a whole, as well as each of our business segments, is not materially dependent on any one intellectual property right or related
+group of such rights.
+Patents, patent applications and license agreements expire or terminate over time by operation of law, in accordance with their terms or
+otherwise. As the portfolio of our patents, patent applications and license agreements has evolved over time, we do not expect the expiration
+of any specific patent to have a material adverse effect on our financial position or results of operations.
+Governmental Regulations
+Environmental Regulations
+Our global operations are subject to various laws and regulations governing the environment, such as those promulgated by the U.S.
+Environmental Protection Agency and similar state and foreign environmental agencies, including related to the discharge of pollutants and
+the management and disposal of hazardous substances. While environmental laws and regulations are subject to change, such changes can
+be difficult to predict reliably and the timing of potential changes is uncertain. We do not believe, based on current circumstances, that
+compliance costs pursuant to such regulations will have a material adverse effect on our financial position or results of operations. However,
+the effect of future legislative or regulatory changes could be material to our financial condition or results of operations.
+We continue to be dedicated to environmental and sustainability programs to minimize the use of natural resources, reduce the utilization
+and generation of hazardous materials from our processes, and remediate identified environmental concerns. We are currently engaged in
+site investigations and remediation activities to address environmental cleanup from past operations at a number of current and former
+manufacturing facilities. We do not anticipate these liabilities will have a material adverse effect on our consolidated financial position or
+results of operations. At December 31, 2025, we had estimated and accrued $4 million related to environmental matters.
+11
+Other Regulations
+As a company with global operations, we are subject to complex U.S. federal, state and local and foreign laws, regulations and permits in the
+countries where we conduct business, including related to, among other matters: trade, such as tariffs and import and export restrictions;
+anti-bribery and corruption; antitrust and competition; data security and privacy, such as the EU General Data Protection Regulation
+(“GDPR”) and the China Personal Information Protection Law ('PIPL"); use of regulated radio spectrum, including that of the U.S. FCC;
+lobbying activity; health and safety; the environment; air emissions; potable and non-potable water; wastewater discharge; and the
+generation, handling, storage, use, transport, treatment and disposal of non-hazardous and hazardous materials and wastes. We have
+policies and procedures in place to promote compliance with these laws, regulations and permits. Additional information about the impact of
+government regulations on Xylem’s business is included in Item 1A. “Risk Factors” under the headings Risks Related to Geopolitical,
+Macroeconomic and Industry Factors, Risks Related to Our Business and Operations, Risks Related to Financial and Tax, and Risks Related
+to Legal and Regulatory.
+Sustainability
+At Xylem, sustainability is at the center of who we are and what we do – from our own operations to the solutions we provide to customers
+that impact communities around the world. As a leading global water technology company, we work to address some of the world’s most
+urgent sustainability challenges - responsible stewardship of our shared water resources and resiliency of communities to the effects of
+volatile weather patterns. Technology is playing an increasingly important role in helping the world solve water issues. We have a long history
+of innovation, and we are focusing on the powerful capabilities of smart technology, integrated management and data analytics.
+We believe our financial performance and focus on sustainability go hand in hand. Xylem approaches sustainability as a way to generate
+economic value while also creating value for our customers and society, thus helping us meet the needs of both. Accordingly, in 2019, we
+evolved our approach to leverage sustainability in our decision making toward long-term value creation for our shareholders, customers,
+employees and communities in which we operate, and we announced a comprehensive slate of 2025 sustainability goals. Additionally, in
+2024, we announced several new ambitious 2030 goals. We also remain focused on our efforts to reach Net Zero greenhouse gas ("GHG")
+emissions across our value chain before 2050. This goal reinforces our alignment with sector-wide efforts to reduce carbon footprints and
+advance sustainability. Following the 2023 acquisition of Evoqua, we updated our emissions baseline and 2030 science-based targets, which
+have been approved by the Science Based Target initiative ("SBTi").
+As we look beyond 2025, we have established three high-impact pillars of our sustainability efforts aligned with our strategy and long-term
+value creation, that aim to deliver sustainable outcomes across our value chain, as well as where we believe we can provide outsized impact
+for our customers and communities. These pillars include decarbonizing the water sector, by providing solutions that support energy
+efficiency and reduced emissions for our customers; accelerating water stewardship, by enabling leading practices in effective water
+management; and advancing WASH for all, by providing innovative solutions designed to increase services to underserved communities
+around the world. For each pillar, we have set forth 2030 goals designed to drive impact across our value chain and for our customers and
+communities.
+Our sustainability strategy and goals are informed by the United Nations Sustainable Development Goals ("UNSDGs"), not only to
+substantiate our contribution to helping achieve global objectives, but also to be transparent in our communication to stakeholders by
+providing details on our efforts to build a sustainable future. Our sustainability strategy and an update on our progress towards achieving our
+goals are outlined in our annual Sustainability Report, which has been prepared with reference to the Global Reporting Initiative and the
+Sustainability Accounting Standards Board frameworks.
+To further enhance our understanding and management of risks and opportunities related to sustainability, we are focused on continued
+progress informed by the core principles of the United Nations Global Compact, CEO Water Mandate, Race to Zero, Women’s Empowerment
+Principles, and the Human Rights Campaign Foundation’s Global Business Coalition, among others.
+In 2023, we entered into a five-year revolving credit facility (the "2023 Credit Facility") with Citibank, N.A., as Administrative Agent, and a
+syndicate of lenders. The 2023 Credit Facility includes a pricing grid that determines the applicable margin based on Xylem's credit rating,
+with a further adjustment based on Xylem's achievement of certain sustainability related key performance indicators (the "KPIs"). Facility fees
+under the 2023 Credit Facility are also adjusted based on Xylem's credit rating and the KPIs. In 2022, we announced investments in CNote’s
+Impact Cash™ platform, a mechanism through which we invest and deposit cash at scale in community finance institutions that strengthen
+and transform underserved communities. In 2021, in partnership with Goldman Sachs, we continued
+12
+our work towards further integrating our business and finance strategies with sustainability by creating a cash account tied to performance of
+select 2025 Sustainability goals. In 2020, Xylem completed a $1 billion Green Bond offering in senior unsecured notes, consisting of $500
+million of 1.950% senior notes due in January 2028 and $500 million of 2.250% senior notes due in January 2031. The proceeds of this
+offering were allocated to green projects that help improve water accessibility, water affordability, and water systems resilience. Additionally,
+during the first quarter of 2021, we issued a special grant to certain employees of less than 0.1 million ESG performance share units.
+Human Capital
+Our colleagues around the globe are united by our purpose – to empower our customers and communities to build a more water-secure
+world – and, as such, are key to the Company’s success and execution of our strategy. We seek to foster a high-impact culture – one in
+which our colleagues are inspired to innovate, empowered to lead and accountable to deliver – creating an environment that is purpose
+driven, people-centered, respectful and inclusive. We believe that our overall success and long-term growth depend, in part, on our continued
+ability to attract and retain highly skilled colleagues, with a variety of backgrounds, experiences and perspectives that reflect our customers
+and communities, including senior leaders and individuals with skills in our strategic competencies, such as engineering, innovation, digital
+technologies, sales excellence, sustainability and product and project management, as well as production, field service and technical
+services talent. The market for individuals with these competencies remains competitive, but we believe our culture and purpose are
+differentiators in attracting and retaining talent.
+As of December 31, 2025, Xylem employed approximately 22,000 employees worldwide. We have approximately 9,000 employees in the
+U.S., 7,000 in western Europe, and 5,000 in the emerging markets, with the remaining 1,000 in other geographies in which we operate.
+Approximately 10% of our U.S. colleagues are represented by labor unions. Outside the United States, certain of our colleagues are
+represented by works councils. We believe that our relations with our employees are good, including relations with those represented by
+labor unions and/or works councils.
+Our Purpose and Values
+Our purpose is to empower our customers and communities to build a more water-secure world, and, together with our values, provides the
+foundation for how we want to grow as a company and behave as both an industry leader and an ethical corporate citizen. We devote our
+technology, time and talent to advance the smarter use of water in service of our purpose and our colleagues are guided by our core values,
+respect, responsibility, integrity and creativity.
+Health and Safety
+Protecting the safety, health and well-being of our colleagues is one of our highest priorities and is also regularly assessed in our business
+reviews. We have a strong Environmental, Health and Safety program that focuses on governance, risk reduction, training and education,
+and leadership accountability, and is designed to provide our colleagues with safe and healthy workplaces.
+Based on employee survey feedback, we regularly augment our holistic well-being strategies, including the expansion of our Employee
+Assistance Program support across the globe, additional mental health resources, and student loan repayment support.
+Compensation and Benefits
+Xylem strives to provide our colleagues with competitive compensation and benefits offerings and takes a total rewards approach that
+integrates programs for compensation, benefits, recognition and well-being. Individual program components may differ by country, role or
+level. Our compensation programs are driven by our pay-for-performance philosophy and commitment to fair and equitable compensation.
+We conduct an annual pay equity assessment based on gender and U.S. minority classifications and make pay adjustments as appropriate
+based on the results.
+Career Development
+We are focused on enhancing the capabilities of our colleagues that are needed for the Company to win in the marketplace. We also are
+focused on internal talent movement across functions, geographies and businesses. We seek to foster a high-impact culture and a
+continuous improvement, 80/20 and learning mindset throughout all areas of the Company.
+13
+We have competitively differentiated approaches to talent development, with a strong focus on developing skills for strategically important
+capabilities, such as product management, artificial intelligence and leadership competence. These approaches are designed to facilitate the
+professional growth and leadership development of our colleagues and to strengthen our succession breadth and depth. We also have
+formal programs and trainings to attract, develop and retain the best talent, including entry-level talent recruitment programs and
+development programs for general managers, emerging high-potential leaders and people leaders.
+Available Information
+We are required to file annual, quarterly and current reports, proxy statements and other information with the SEC. Our annual reports on
+Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, proxy statements and amendments to those reports are available
+free of charge on our website www.xylem.com as soon as reasonably practicable after such reports are electronically filed with or furnished
+to the SEC. The information on our website is not, and shall not be deemed to be, a part hereof or incorporated into this or any of our other
+filings with the SEC.
+In addition, the public may read or copy any materials filed with the SEC, free of charge, at www.sec.gov.
+14
+ITEM 1A.    RISK FACTORS
+In evaluating our business and investment in our securities, investors should carefully consider the following discussion of material factors
+and events, along with all of the other information in this Report and in our other filings with the SEC. The events and consequences
+discussed below could, in circumstances that we may not be able to accurately predict, recognize or control, have a material adverse effect
+on our business, financial condition, cash flows, results of operations and/or market price of our common stock. Some of the factors, events,
+and contingencies discussed below may have occurred in the past, and the disclosures below are not representations as to whether or not
+the factors, events or contingencies have occurred in the past, but are provided because future occurrences of such factors, events, or
+contingencies could have a material adverse effect.
+These risk factors do not identify all of the risks we face. Our business is also subject to general risks that affect many other companies. In
+addition, we operate in a continually changing business, economic and geopolitical environment, and as a result, new risk factors, or changes
+to our risk profile, may emerge from time to time. Risks not currently known to us, or that we currently believe are immaterial, may impact our
+business, operations, financial condition or share price. The global macroeconomic and geopolitical climate amplify many of the risks below.
+Risks in this section are grouped in the following categories: (1) Risks Related to Geopolitical, Macroeconomic and Industry Factors; (2)
+Risks Related to Our Business and Operations; (3) Risks Related to Financial and Tax; and (4) Risks Related to Legal and Regulatory. Many
+risks affect more than one category, and as a result the risks are not in order of significance or probability of occurrence.
+Risks Related to Geopolitical, Macroeconomic and Industry Factors
+Industry and economic conditions may adversely affect our markets and our customers’ operating conditions and demand.
+With sales, directly or indirectly, in approximately 150 countries, we compete across a wide range of geographies and end markets.
+Economic and industry factors that have had, or may in the future have, a material impact on our businesses and demand for our products
+and services include: (i) overall strength of, and our customers’ confidence in, local and global macroeconomic conditions; (ii) inflation and
+related monetary policy actions by governments in response; (iii) overall strength of industrial, governmental, public and private sector
+spending; (iv) overall strength of the industrial, residential and commercial real estate markets; (v) federal, state, local and municipal
+governments’ environmental, energy efficiency, fiscal, trade and procurement laws, regulations and policies, including domestic content
+requirements; (vi) availability of commercial financing for our customers and end-users; and (vii) availability of funding for our public sector
+customers, including for water infrastructure investments. These and other macroeconomic impacts, including actual or potential economic
+slowdowns, recessions or other prolonged downturns in the global economy or our markets, supply chain dynamics and shortages, labor
+shortages, inflation, and significant government debt and deficit levels, have had and may in the future have, a material adverse effect on
+demand for our products and solutions and therefore our business, financial condition, cash flows, results of operations and stock price.
+Geopolitical, regulatory, economic, foreign exchange and other risks associated with our global sales, supply chain and operations
+may adversely affect our business.
+In 2025, 58% of our total revenue was from sales to U.S. customers and 42% was from sales to customers outside the U.S. We expect a
+similar revenue profile going forward. Many of our manufacturing operations, employees, suppliers and distribution channels are located
+outside of the U.S. Our operations, supply chain and sales both within the U.S. and internationally are subject, to varying degrees, to risks
+and uncertainties inherent in doing business globally, including:
+• nationalism, populism, protectionism, anti-global sentiment and changes in trade protection measures, including the imposition of
+increased or new embargoes, tariffs and other trade barriers, import and export regulations or restrictions, licensing requirements,
+domestic content requirements, and retaliatory measures;
+• uncertainty, volatility and impacts from the evolving global geopolitical environment involving the U.S. and other countries’
+governments, including the relationships among the U.S., European Union (“EU”), Middle East, Latin America, Russia, India, China,
+Taiwan, or other foreign countries, and the international community at large;
+• any actual or potential threat, outbreak, uncertainty or escalation of terrorism, political instability, insurrection, war, or other armed
+conflicts, including between Russia and Ukraine, the U.S. and Venezuela or Iran, and in the Middle East, and other global safety and
+security concerns;
+15
+• threat or outbreak of epidemics, global health crises, or pandemics and related uncertainties;
+• impacts from significant shifts in U.S. immigration policy, such as a tightened labor market and inflation;
+• disruptions in global or regional supply chains, our operations, or those of third parties upon which we rely, including due to labor
+disruptions, supply shortages, trade restrictions, increased or new tariffs and freight and logistics challenges;
+• changes to applicable U.S. or host country laws, regulations or policies, including those related to tax, water quality, the environment,
+energy efficiency, infrastructure, data transmission, security or privacy, labor, and artificial intelligence (“AI”), as well as potential
+negative consequences from the interpretation, application and enforcement of such measures;
+• theft, compromise, misappropriation or challenges in protecting our technology, intellectual property or data, including from
+cybersecurity and AI threats.
+Beyond the risks indicated above, our operations in emerging markets are subject to additional risks and uncertainties, including: (i)
+imposition of or increases in withholding or other taxes on remittances and other payments to us; (ii) nationalization of our assets; (iii)
+imposition of or increases in investment barriers or other restrictions; (iv) difficulty enforcing commercial agreements or collecting receivables;
+(v) pricing pressure on our products and services; (vi) elevated business conduct risks; and (vii) challenges in attracting and retaining
+qualified talent and labor.
+Geopolitical changes in China-Taiwan relations could disrupt the operations of companies in Taiwan that are critical to the global supply chain
+for semiconductors (“chips”) and other electronic components, as well as the supply of lithium batteries, carbide seals, and rare earth
+elements. Such changes could have significant negative effects on the global supply chain for these components and materials and could
+adversely affect our ability to manufacture certain of our digitally-enabled products, such as pumps, controllers and smart meters.
+We cannot predict the impact that such factors might have on our business, financial condition, cash flows, results of operations an share
+price.
+Inflation, tariffs, customs duties, and other manufacturing and operating cost increases or fluctuations have adversely affected,
+and may continue to adversely affect, our cash flows and results of operations.
+Our manufacturing and operating costs fluctuate with volatility in the prices of commodities, parts, raw materials, energy, utilities, freight,
+logistics, and labor. These fluctuations have been, and may continue to be, driven by a variety of factors, such as inflation, tight labor
+markets, exchange rates, trade agreements, tariffs and other trade protection measures, and other macroeconomic, political or geopolitical
+factors. For example, ongoing or escalation of conflicts in Ukraine and the Middle East, and the increasing tensions or outbreak of conflict
+between China and Taiwan, could further increase logistics, energy and supply costs, and potentially delay customer shipments. We rely on a
+large and complex network of suppliers (and their suppliers) and contract manufacturers globally, including in China and Mexico. The U.S.
+has enacted or threatened various trade actions, including tariffs on goods imported from China, Mexico, Canada, Europe and other
+countries, which has or may result in retaliatory measures. On August 29, 2025, the U.S. Court of Appeals for the Federal Circuit ruled that
+many of the tariffs imposed by the U.S. federal government under the International Emergency Economic Powers Act exceed presidential
+authority and therefore are invalid. On February 20, 2026, the U.S. Supreme Court affirmed that ruling. As of the date of this filing, tariffs
+issued under the different statutes remain in place, and the scope and durability of existing and future tariffs, as well as tariffs in place prior to
+the U.S. Supreme Court’s ruling, remain uncertain. U.S. and international trade actions could increase the cost of our products, which we
+may not be able to offset through pricing or productivity, and could impair our competitiveness. In a declining price environment, our
+operating margins may contract because we account for inventory using the first-in, first-out method. Actions we take to mitigate cost volatility
+may not be successful and, as a result, our business, financial condition, cash flows and results of operations could be materially and
+adversely affected.
