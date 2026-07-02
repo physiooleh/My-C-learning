@@ -1,12 +1,260 @@
-#include <iostream>
+Interesse composto: formule ed esempi – Definizione
+L’interesse composto è l’aumento del valore di un’attività o di
+un debito dovuto all’accumulo degli interessi.
+..Odsetki skladane: wzory i przyklady - Definicja
+Odsetki skladane to wzrost wartosci aktywa lub dlugu wynikajacy z
+kumulacji (kapitalizacji) odsetek
 
-using namespace std;
+Che cos’è la capitalizzazione (compounding)?
+La capitalizzazione è il processo mediante il quale i rendimenti 
+di un’attività, derivanti sia da plusvalenze[przyrost wartosci] 
+sia da interessi[aktywa], vengono reinvestiti per generare ulteriori 
+guadagni nel tempo. 
+..Co to jest kapitalizacja (compounding)?
+Kapitalizacja to proces, w ktorym zyski z aktywa, pochodzace zarowni z 
+przyrostu wartosci (zyskow kapitalowych), jak i z odsetek, sa reinwestowane w 
+celu generowania dodatkowych zyskow w czasie. 
 
-//masyw naszych elementow
+Questa crescita, calcolata tramite funzioni esponenziali, si 
+verifica perché l’investimento produce rendimenti sia sul 
+capitale iniziale sia sugli interessi accumulati nei periodi precedenti.
+..Ten wzrost, obliczany za pomoca funkcji wykladniczych, zachpdzi dlatego
+ze inwestycja generuje zyski zarowno od kapitalu poczatkowego, jak i od
+odsetek zgromadzonych w poprzednich okresach.
 
-typedef struct { //oglaszamy strukture dla naszych elementow
+La capitalizzazione si differenzia dalla crescita lineare, 
+nella quale solo il capitale iniziale genera interessi in ciascun 
+periodo.
+..Kapitalizacja rozni sie od wzrostu liniowego, w ktorym tylko
+kapital poczatkowy generuje odsetki w kazdym okresie.
 
-}Item;
-typedefof struct {
+Punti chiave
+La capitalizzazione è “interesse su interesse”, che consente ai 
+rendimenti di crescere in modo esponenziale nel tempo.
+..Punkty kluczowe
+Kapitalizacja to "odsetki od odsetek", co pozwala zyskom rosnac w sposob
+wykladniczy w czasie.
 
-} Hashmap
+>Le banche o gli istituti finanziari possono calcolare l’interesse 
+composto su base annuale, mensile o giornaliera.
+
+>La capitalizzazione può applicarsi anche ai debiti, facendoli 
+aumentare anche quando il debitore effettua pagamenti.
+>I conti di risparmio prevedono l’interesse composto, e anche alcuni 
+investimenti in dividendi beneficiano della capitalizzazione.
+
+Comprendere la capitalizzazione (compounding)
+La capitalizzazione si riferisce generalmente all’aumento del valore di 
+un’attività dovuto agli interessi maturati sia sul capitale iniziale 
+(principal) sia sugli interessi già accumulati. 
+Questo fenomeno, che rappresenta una diretta applicazione del concetto di 
+valore temporale del denaro (Time Value of Money, TMV), è noto anche come 
+interesse composto.
+
+La capitalizzazione è fondamentale in ambito finanziario, e i guadagni ad 
+essa attribuibili costituiscono la base di molte strategie di investimento. 
+Ad esempio, numerose società offrono piani di reinvestimento dei dividendi 
+(Dividend Reinvestment Plans, DRIP) che consentono agli investitori di reinvestire 
+i dividendi in contanti per acquistare ulteriori azioni. 
+Il reinvestimento di queste azioni che distribuiscono dividendi amplifica i 
+rendimenti dell’investitore, poiché l’aumento del numero di titoli posseduti 
+incrementa costantemente i redditi futuri derivanti dai dividendi, a parità di 
+distribuzione.
+
+Investire in azioni con crescita dei dividendi, oltre al reinvestimento degli stessi, 
+aggiunge un ulteriore livello di capitalizzazione, definito “doppia capitalizzazione”. 
+In questo caso, non solo i dividendi vengono reinvestiti, ma anche i titoli stessi 
+aumentano nel tempo l’importo dei dividendi per azione distribuiti.
+
+Formula dell’interesse composto
+
+La formula per il valore futuro (Future Value, FV) di un’attività attuale si basa sul concetto 
+di interesse composto. 
+Essa tiene conto del valore presente dell’attività, del tasso di interesse annuo, 
+della frequenza della capitalizzazione (ovvero il numero di periodi di capitalizzazione 
+per anno) e del numero totale di anni.
+
+La formula generale dell’interesse composto è:
+FV = PV × (1 + i/n)^(n·t)
+dove:
+* FV = valore futuro
+* PV = valore presente
+* i = tasso di interesse annuo
+* n = numero di periodi di capitalizzazione per anno
+* t = numero di anni
+Questa formula presuppone che non vengano apportate modifiche aggiuntive al saldo del 
+capitale iniziale, al di fuori degli interessi maturati.
+
+536.870.912
+
+Ti sei mai chiesto come appare una capitalizzazione giornaliera al 100%? 
+La fiaba popolare “Un chicco di riso”, di Demi, si basa su una ricompensa 
+in cui viene assegnato un solo chicco di riso il primo giorno, e il numero 
+di chicchi raddoppia ogni giorno per 30 giorni. 
+Alla fine del mese, nell’ultimo giorno verrebbero assegnati oltre 536 milioni 
+di chicchi di riso.
+
+Aumento della frequenza di capitalizzazione
+Gli effetti della capitalizzazione si rafforzano man mano che aumenta la 
+frequenza con cui gli interessi vengono calcolati. 
+Considerando un periodo di un anno, più sono i periodi di capitalizzazione, 
+maggiore sarà il valore futuro dell’investimento. 
+Due capitalizzazioni annue sono migliori di una, e quattro sono migliori di due.
+
+Per illustrare questo effetto, si consideri il seguente esempio basato sulla 
+formula precedente. 
+Si supponga un investimento di 1.000.000 $ con un rendimento annuo del 20%. 
+Il valore futuro risultante, in base a diverse frequenze di capitalizzazione, è il seguente:
+
+Capitalizzazione annuale (n = 1): FV = 1.000.000 $ × [1 + (20%/1)]^(1×1) = 1.200.000 $
+Capitalizzazione semestrale (n = 2): FV = 1.000.000 $ × [1 + (20%/2)]^(2×1) = 1.210.000 $
+Capitalizzazione trimestrale (n = 4): FV = 1.000.000 $ × [1 + (20%/4)]^(4×1) = 1.215.506 $
+Capitalizzazione mensile (n = 12): FV = 1.000.000 $ × [1 + (20%/12)]^(12×1) = 1.219.391 $
+Capitalizzazione settimanale (n = 52): FV = 1.000.000 $ × [1 + (20%/52)]^(52×1) = 1.220.934 $
+Capitalizzazione giornaliera (n = 365): FV = 1.000.000 $ × [1 + (20%/365)]^(365×1) = 1.221.336 $
+
+Come evidente, il valore futuro aumenta solo di un margine sempre più ridotto 
+anche quando il numero dei periodi di capitalizzazione per anno cresce in 
+modo significativo. 
+La frequenza della capitalizzazione, su un determinato intervallo di tempo, 
+ha quindi un effetto limitato sulla crescita complessiva di un investimento. 
+Questo limite, fondato sul calcolo infinitesimale, è noto come 
+capitalizzazione continua e può essere espresso con la formula:
+
+FV = P × e^(r·t)
+dove:
+e = numero irrazionale 2,7183
+r = tasso di interesse
+t = tempo
+
+Nell’esempio precedente, il valore futuro con capitalizzazione continua è pari a:
+FV = 1.000.000 $ × 2,7183^(0,2 × 1) = 1.221.404 $
+
+Curiosità
+La capitalizzazione è un esempio del cosiddetto “effetto valanga”, in cui una 
+situazione inizialmente di piccola entità cresce progressivamente fino a diventare 
+sempre più rilevante.
+
+Capitalizzazione su investimenti e debiti
+L’interesse composto agisce sia sulle attività che sulle passività. 
+Sebbene la capitalizzazione aumenti più rapidamente il valore di un’attività, 
+può anche incrementare l’ammontare del debito su un prestito, poiché gli interessi 
+si accumulano sia sul capitale non rimborsato sia sugli interessi precedentemente 
+maturati. 
+Anche effettuando pagamenti periodici, la capitalizzazione degli interessi può far sì 
+che il debito residuo aumenti in alcuni periodi futuri.
+
+Il concetto di capitalizzazione è particolarmente problematico nel caso dei saldi 
+delle carte di credito. 
+Non solo il tasso di interesse è generalmente elevato, ma gli interessi vengono 
+spesso aggiunti al capitale, generando ulteriori interessi in futuro. 
+Per questo motivo, la capitalizzazione non è intrinsecamente “positiva” o “negativa”: 
+i suoi effetti possono lavorare a favore o contro l’investitore, a seconda della situazione 
+finanziaria.
+
+Esempio di capitalizzazione (compounding)
+Per illustrare il funzionamento della capitalizzazione, si supponga che 10.000 $ 
+siano depositati in un conto che paga un interesse annuo del 5%. 
+Dopo il primo anno (o primo periodo di capitalizzazione), il totale presente sul 
+conto sale a 10.500 $, una semplice conseguenza dei 500 $ di interessi aggiunti 
+al capitale iniziale di 10.000 $.
+
+Nel secondo anno, il conto matura un rendimento del 5% sia sul capitale originario 
+sia sui 500 $ di interessi del primo anno, generando un guadagno di 525 $ e un saldo 
+finale di 11.025 $.
+
+Esempio di capitalizzazione
+
+| Periodo di capitalizzazione | Saldo iniziale | Interessi | Saldo finale |
+| --------------------------- | -------------- | --------- | ------------ |
+| 1                           | 10.000,00 $    | 500,00 $  | 10.500,00 $  |
+| 2                           | 10.500,00 $    | 525,00 $  | 11.025,00 $  |
+| 3                           | 11.025,00 $    | 551,25 $  | 11.576,25 $  |
+| 4                           | 11.576,25 $    | 578,81 $  | 12.155,06 $  |
+| 5                           | 12.155,06 $    | 607,75 $  | 12.762,82 $  |
+| 6                           | 12.762,82 $    | 638,14 $  | 13.400,96 $  |
+| 7                           | 13.400,96 $    | 670,05 $  | 14.071,00 $  |
+| 8                           | 14.071,00 $    | 703,55 $  | 14.774,55 $  |
+| 9                           | 14.774,55 $    | 738,73 $  | 15.513,28 $  |
+| 10                          | 15.513,28 $    | 775,66 $  | 16.288,95 $  |
+
+Investimento di 10.000 $ con interesse composto al 5%
+Dopo 10 anni, assumendo l’assenza di prelievi e un tasso di interesse costante 
+del 5%, il conto crescerebbe fino a 16.288,95 $. 
+Senza aggiungere né sottrarre nulla al capitale iniziale, a parte gli interessi, 
+l’effetto della capitalizzazione ha fatto aumentare il guadagno annuo da 500 $ nel 
+primo periodo a 775,66 $ nel decimo.
+
+Inoltre, senza effettuare nuovi investimenti, il capitale è cresciuto di 6.288,95 $ 
+in 10 anni. 
+Se l’investimento avesse prodotto solo interesse semplice (5% sul capitale iniziale), 
+l’interesse annuo sarebbe stato pari a 5.000 $ totali (500 $ all’anno per 10 anni).
+
+Come si applica nella vita reale?
+Se si acquista una casa, si contraggono prestiti studenteschi o si utilizza una carta di
+credito, si è esposti agli effetti della capitalizzazione degli interessi. 
+Questo significa che non solo si pagano interessi sul capitale preso in prestito, 
+ma anche interessi sugli interessi già maturati.
+
+Tuttavia, la capitalizzazione può anche lavorare a favore. 
+Ad esempio, depositando denaro in un conto di risparmio ad alto rendimento, 
+i risparmi crescono molto più rapidamente rispetto a un conto corrente tradizionale.
+
+Che cos’è la Regola del 72?
+La Regola del 72 è un metodo approssimativo utilizzato per stimare il tempo necessario 
+affinché un investimento o un risparmio raddoppi il proprio valore grazie all’interesse 
+composto (o ai rendimenti composti). 
+La regola afferma che il numero di anni necessari per raddoppiare il capitale si ottiene 
+dividendo 72 per il tasso di interesse.
+
+Ad esempio, con un tasso di interesse del 5% annuo con capitalizzazione, 
+occorrono circa 14 anni e 5 mesi per raddoppiare il capitale.
+
+Qual è la differenza tra interesse semplice e interesse composto?
+L’interesse semplice calcola i rendimenti esclusivamente sul capitale 
+iniziale investito o depositato. 
+Ad esempio, se si depositano 1.000 $ con un interesse semplice del 5%, 
+si otterranno 50 $ all’anno.
+
+L’interesse composto, invece, prevede il cosiddetto “interesse su interesse”: 
+nel primo anno si ottengono 50 $, ma nel secondo anno gli interessi saranno 
+pari a 52,5 $ (1.050 $ × 0,05), e così via, poiché il capitale cresce 
+progressivamente.
+
+
+Come posso far “capitalizzare” il mio denaro?
+Oltre all’interesse composto tradizionale, gli investitori possono ottenere 
+rendimenti composti reinvestendo i dividendi. 
+Questo significa utilizzare i dividendi ricevuti in contanti per acquistare 
+ulteriori azioni della stessa società, le quali a loro volta genereranno nuovi 
+dividendi in futuro.
+
+Quale tipo di media è più adatto alla capitalizzazione?
+In ambito finanziario esistono diversi tipi di media utilizzati per calcolare i 
+rendimenti. 
+Quando si analizzano investimenti o conti di risparmio soggetti a capitalizzazione, 
+è più appropriata la media geometrica. 
+In finanza, questa è spesso indicata come rendimento medio ponderato nel tempo o 
+tasso di crescita annuo composto (CAGR, Compound Annual Growth Rate).
+
+Qual è il miglior esempio di capitalizzazione?
+I conti di risparmio ad alto rendimento (high-yield savings accounts) 
+sono un ottimo esempio di capitalizzazione.
+
+Supponiamo di depositare 1.000 $ in un conto di risparmio. 
+Nel primo anno si matura una certa quantità di interessi. 
+Se non si preleva mai denaro dal conto e il tasso di interesse rimane 
+almeno invariato rispetto all’anno precedente, l’ammontare degli interessi 
+guadagnati nel secondo anno sarà più elevato. 
+Questo avviene perché i conti di risparmio aggiungono gli interessi maturati 
+al saldo disponibile, che a sua volta continua a generare nuovi interessi.
+
+Conclusione
+La capitalizzazione e l’interesse composto svolgono un ruolo fondamentale nel 
+determinare il successo finanziario degli investitori. 
+Sfruttando la capitalizzazione, è possibile aumentare il proprio capitale più rapidamente. 
+Al contrario, quando si accumula debito soggetto a capitalizzazione, il saldo del debito può 
+crescere nel tempo, rendendo più difficile la sua estinzione.
+
+Grazie all’interesse composto, i saldi finanziari possono crescere in modo esponenziale, 
+molto più rapidamente rispetto a un interesse calcolato in maniera lineare.
