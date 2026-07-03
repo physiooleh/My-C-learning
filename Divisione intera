@@ -1,19 +1,274 @@
-#include <iostream>
-using namespace std;
+### Il DCF: uno degli strumenti più sofisticati della valutazione fondamentale
 
-int main() {
-int numerators[] = {7,14, 9, 20, 17};
-int denominators[] = {3, 4, 2, 6, 5};
-int n = 5;
+Il **Discounted Cash Flow (DCF)** è considerato uno dei metodi più rigorosi per stimare il valore intrinseco di un'azienda. Il principio alla base è semplice: **il valore di un'impresa corrisponde al valore attuale dei flussi di cassa che essa sarà in grado di generare in futuro**.
 
-for (int i = 0; i < n; i++) {
-int a = numerators[i];
-int b = denominators [i];
-int quotient = a / b; //cile czyslo
-int remainder = a % b; //ostacza
+Tuttavia, l'affidabilità del DCF dipende interamente dalla qualità delle ipotesi formulate. Nel mondo della finanza è celebre il principio **"Garbage in, garbage out"**: se le ipotesi di partenza sono irrealistiche, anche il risultato finale sarà privo di valore.
 
-cout << a << "/" << b << "=" << quotient
-<< ", ostacza = " << remainder << endl;
-}
-return 0;
-}
+---
+
+## Che cos'è il Free Cash Flow (FCF)?
+
+Il **Free Cash Flow (FCF)**, ovvero **flusso di cassa libero**, rappresenta il denaro che rimane all'azienda dopo aver sostenuto tutte le spese operative e gli investimenti necessari al mantenimento e allo sviluppo dell'attività (Capital Expenditures, o CapEx).
+
+La formula più utilizzata è:
+
+**FCF = Flusso di cassa operativo − Spese in conto capitale (CapEx)**
+
+Il FCF costituisce la liquidità effettivamente disponibile per:
+
+* distribuire dividendi agli azionisti;
+* riacquistare azioni proprie (buyback);
+* ridurre l'indebitamento;
+* finanziare nuove acquisizioni;
+* investire nella crescita futura dell'impresa.
+
+Per questo motivo molti investitori professionali attribuiscono al FCF un'importanza persino superiore rispetto all'utile netto, poiché rappresenta denaro realmente disponibile e non un semplice risultato contabile.
+
+---
+
+## Che cos'è il FCF Yield?
+
+Il **Free Cash Flow Yield** misura quanto flusso di cassa libero un'azienda genera rispetto alla sua capitalizzazione di mercato.
+
+La formula è:
+
+**FCF Yield = FCF / Capitalizzazione di mercato × 100%**
+
+In alternativa:
+
+**FCF Yield = FCF per azione / Prezzo dell'azione × 100%**
+
+---
+
+## Esempio
+
+Supponiamo che una società presenti:
+
+* Capitalizzazione di mercato: **50 miliardi di dollari**
+* Free Cash Flow: **5 miliardi di dollari**
+
+Il calcolo sarà:
+
+**FCF Yield = 5 / 50 × 100 = 10%**
+
+Ciò significa che l'azienda genera ogni anno un flusso di cassa libero pari al **10% del proprio valore di mercato**.
+
+---
+
+## Come interpretare il FCF Yield
+
+Pur variando sensibilmente da settore a settore, si possono adottare alcune soglie indicative:
+
+* **inferiore al 3%** → società generalmente valutata in modo oneroso;
+* **tra il 3% e il 5%** → valutazione in linea con il mercato;
+* **tra il 5% e l'8%** → valutazione interessante;
+* **superiore all'8–10%** → potenziale sottovalutazione, purché il FCF sia stabile e sostenibile.
+
+Naturalmente è fondamentale verificare che il flusso di cassa non sia stato influenzato da eventi straordinari o non ricorrenti.
+
+---
+
+## Perché gli investitori professionali utilizzano il FCF Yield?
+
+A differenza dell'utile netto, il Free Cash Flow misura la **capacità effettiva dell'impresa di produrre liquidità**.
+
+Un'azienda può infatti riportare utili elevati ma generare poca cassa, mentre un'altra può presentare un utile modesto e produrre consistenti flussi finanziari.
+
+Per questa ragione il FCF Yield è uno degli indicatori preferiti dagli investitori orientati al valore (**value investors**) e da numerosi fondi d'investimento istituzionali.
+
+---
+
+## Come si costruisce un modello DCF
+
+La procedura standard si articola in sette fasi.
+
+### 1. Determinare il Free Cash Flow corrente
+
+Si parte dal FCF dell'ultimo esercizio disponibile.
+
+Ad esempio:
+
+* FCF = **1 miliardo di dollari**
+
+---
+
+### 2. Stimare la crescita futura del FCF
+
+Si ipotizza un tasso di crescita plausibile per i successivi cinque-dieci anni.
+
+Ad esempio, assumendo una crescita del **10% annuo**, si ottiene:
+
+* Anno 1 → 1,10 miliardi
+* Anno 2 → 1,21 miliardi
+* Anno 3 → 1,33 miliardi
+* Anno 4 → 1,46 miliardi
+* Anno 5 → 1,61 miliardi
+
+---
+
+### 3. Scegliere il tasso di sconto (Discount Rate)
+
+Il tasso di sconto riflette il rendimento richiesto dagli investitori in funzione del rischio.
+
+Indicativamente:
+
+* **8–10%** per imprese mature e solide;
+* **10–15%** per aziende più rischiose o in rapida espansione.
+
+---
+
+### 4. Attualizzare ciascun flusso di cassa
+
+Ogni flusso futuro deve essere riportato al suo valore presente mediante la formula:
+
+[
+PV=\frac{FCF}{(1+r)^n}
+]
+
+dove:
+
+* **PV** = valore attuale;
+* **FCF** = flusso di cassa dell'anno considerato;
+* **r** = tasso di sconto;
+* **n** = numero dell'anno.
+
+---
+
+### 5. Calcolare il Terminal Value
+
+Poiché un'impresa continua normalmente a operare oltre il periodo esplicito di previsione, si calcola il cosiddetto **Terminal Value**, ossia il valore dell'azienda dopo l'ultimo anno del modello.
+
+La formula di Gordon è:
+
+[
+TV=\frac{FCF_{n+1}}{r-g}
+]
+
+dove:
+
+* **FCFₙ₊₁** = flusso di cassa del primo anno successivo al periodo di previsione;
+* **r** = tasso di sconto;
+* **g** = tasso di crescita perpetua (generalmente compreso tra il 2% e il 3%).
+
+Anche il Terminal Value deve poi essere attualizzato.
+
+---
+
+### 6. Determinare l'Enterprise Value
+
+L'**Enterprise Value** si ottiene sommando:
+
+* il valore attuale di tutti i flussi di cassa previsti;
+* il valore attuale del Terminal Value.
+
+---
+
+### 7. Calcolare il valore teorico dell'azione
+
+Per ottenere il valore attribuibile agli azionisti si applica la relazione:
+
+**Equity Value = Enterprise Value − Debito netto**
+
+Successivamente si divide l'Equity Value per il numero di azioni in circolazione.
+
+Ad esempio:
+
+* Enterprise Value = 19 miliardi
+* Debito = 3 miliardi
+* Liquidità = 1 miliardo
+
+Debito netto = 2 miliardi
+
+Equity Value = **17 miliardi**
+
+Se le azioni in circolazione sono **500 milioni**, allora:
+
+**Valore teorico dell'azione = 17 miliardi / 500 milioni = 34 dollari**
+
+Se il mercato quota il titolo a **25 dollari**, potrebbe essere sottovalutato.
+
+Se invece quota **45 dollari**, potrebbe risultare sopravvalutato, sempre che le ipotesi utilizzate nel modello siano realistiche.
+
+---
+
+## Gli indicatori preferiti dagli investitori professionali
+
+Per una prima selezione delle aziende, molti analisti e gestori osservano contemporaneamente:
+
+* **FCF Yield** → misura quanto flusso di cassa libero viene generato rispetto al valore di mercato;
+* **P/E (Price/Earnings)** → confronta il prezzo dell'azione con gli utili;
+* **EV/EBITDA** → consente di confrontare aziende con differenti livelli di indebitamento;
+* **ROIC (Return on Invested Capital)** → valuta l'efficienza con cui il capitale investito viene trasformato in profitti;
+* **Debt/EBITDA** → misura la sostenibilità dell'indebitamento.
+
+Solo dopo questa analisi preliminare molti investitori procedono alla costruzione di un modello DCF, considerato uno degli strumenti più completi per stimare il valore intrinseco di una società.
+
+
+
+
+Certamente! Ecco la spiegazione in un italiano di livello avanzato (C2).
+
+---
+
+Il **DCF (Discounted Cash Flow)** è considerato uno dei metodi più autorevoli per determinare il valore intrinseco di un'azienda. Tuttavia, la sua affidabilità dipende interamente dalla qualità delle ipotesi formulate riguardo ai flussi di cassa futuri. In ambito finanziario è molto diffuso il principio *"Garbage in, garbage out"*: se le stime iniziali sono irrealistiche, anche la valutazione finale sarà poco attendibile.
+
+## Che cos'è il Free Cash Flow Yield (FCF Yield)?
+
+Il **Free Cash Flow Yield** rappresenta il rapporto tra il flusso di cassa libero generato da un'impresa e la sua capitalizzazione di mercato. In altre parole, misura quanto denaro l'azienda produce ogni anno rispetto al valore che il mercato le attribuisce.
+
+La formula è la seguente:
+
+**FCF Yield = Free Cash Flow / Capitalizzazione di mercato × 100%**
+
+In alternativa, è possibile calcolarlo su base per azione:
+
+**FCF Yield = Free Cash Flow per azione / Prezzo dell'azione × 100%**
+
+## Esempio pratico
+
+Supponiamo che un'azienda presenti i seguenti dati:
+
+* Capitalizzazione di mercato: **50 miliardi di dollari**
+* Free Cash Flow: **5 miliardi di dollari**
+
+Il calcolo sarà:
+
+**FCF Yield = 5 / 50 × 100% = 10%**
+
+Ciò significa che l'impresa genera ogni anno un flusso di cassa libero pari al **10% del proprio valore di mercato**.
+
+## Come interpretare il Free Cash Flow Yield
+
+Sebbene l'interpretazione dipenda sempre dal settore di appartenenza, esistono alcune linee guida generalmente accettate:
+
+* **Inferiore al 3%** → il titolo potrebbe risultare costoso.
+* **Tra il 3% e il 5%** → valutazione generalmente in linea con il mercato.
+* **Tra il 5% e l'8%** → il titolo appare interessante.
+* **Superiore all'8-10%** → può rappresentare un'opportunità particolarmente interessante, purché il business sia solido e il Free Cash Flow sia stabile e sostenibile nel tempo.
+
+## Perché gli investitori attribuiscono tanta importanza al Free Cash Flow?
+
+A differenza dell'utile netto, il **Free Cash Flow** rappresenta liquidità effettivamente disponibile dopo aver sostenuto tutte le spese operative e gli investimenti necessari al mantenimento e allo sviluppo dell'attività (CapEx).
+
+Si tratta quindi del denaro che l'impresa può utilizzare liberamente per:
+
+* distribuire dividendi agli azionisti;
+* riacquistare azioni proprie (*share buyback*);
+* ridurre l'indebitamento;
+* finanziare nuovi investimenti e progetti di crescita.
+
+Per questo motivo molti investitori professionali considerano il **Free Cash Flow** un indicatore più significativo dell'utile netto, poiché riflette con maggiore precisione la reale capacità dell'azienda di generare liquidità.
+
+## Una combinazione di indicatori molto utilizzata dagli investitori professionali
+
+Per una prima selezione delle aziende, molti analisti e gestori osservano congiuntamente alcuni indicatori fondamentali:
+
+* **FCF Yield**, per valutare se il flusso di cassa è acquistabile a un prezzo conveniente;
+* **P/E (Price/Earnings Ratio)**, per confrontare il prezzo del titolo con gli utili prodotti;
+* **ROIC (Return on Invested Capital)**, per misurare l'efficienza con cui l'impresa remunera il capitale investito;
+* **Debt/EBITDA**, per verificare il livello di indebitamento rispetto alla capacità operativa dell'azienda.
+
+Questi indicatori costituiscono un efficace strumento di **screening preliminare**. Solo successivamente gli investitori procedono a un'analisi più approfondita, ricorrendo, ad esempio, al modello **DCF**, che consente di stimare il valore intrinseco della società confrontandolo con la sua valutazione di mercato.
+
+In sintesi, il **Free Cash Flow Yield** è uno degli indicatori più apprezzati nell'analisi fondamentale perché permette di valutare, in modo semplice ma efficace, quanto denaro reale un'impresa genera rispetto al prezzo che il mercato è disposto a pagare per possederla.
+
