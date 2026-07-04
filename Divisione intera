@@ -1,19 +1,53 @@
-### Il DCF: uno degli strumenti più sofisticati della valutazione fondamentale
+Il Discounted Cash Flow: il ruolo delle ipotesi nella valutazione aziendale
+Il Discounted Cash Flow (DCF) è considerato uno degli strumenti più sofisticati 
+e affidabili della valutazione fondamentale. 
+Il suo obiettivo è stimare il valore intrinseco di un'azienda attualizzando i 
+flussi di cassa che essa dovrebbe generare negli anni futuri.
 
-Il **Discounted Cash Flow (DCF)** è considerato uno dei metodi più rigorosi per stimare il valore intrinseco di un'azienda. Il principio alla base è semplice: **il valore di un'impresa corrisponde al valore attuale dei flussi di cassa che essa sarà in grado di generare in futuro**.
+Tuttavia, il DCF si fonda interamente su una serie di ipotesi. 
+Se un analista formulasse previsioni realistiche sui ricavi, 
+sui margini operativi, sugli investimenti e sul costo del capitale, 
+potrebbe ottenere una stima attendibile del valore dell'impresa. 
+Se, invece, le ipotesi fossero eccessivamente ottimistiche oppure 
+troppo pessimistiche, il risultato finale sarebbe inevitabilmente 
+distorto.
 
-Tuttavia, l'affidabilità del DCF dipende interamente dalla qualità delle ipotesi formulate. Nel mondo della finanza è celebre il principio **"Garbage in, garbage out"**: se le ipotesi di partenza sono irrealistiche, anche il risultato finale sarà privo di valore.
+Per esempio, se si ipotizzasse un tasso di crescita troppo elevato, 
+il valore dell'azienda aumenterebbe sensibilmente. 
+Al contrario, se il costo del capitale fosse stimato in modo eccessivo, 
+il valore attuale dei flussi di cassa diminuirebbe. 
+Anche una variazione minima del tasso di sconto potrebbe modificare 
+in modo significativo il risultato della valutazione.
+
+Per questo motivo, un analista dovrebbe sempre verificare la 
+ragionevolezza delle proprie ipotesi. 
+Se non le confrontasse con i dati storici, con i concorrenti e 
+con le prospettive del settore, rischierebbe di attribuire 
+all'azienda un valore poco credibile.
+Qualora il contesto economico cambiasse improvvisamente, 
+sarebbe necessario aggiornare tutte le assunzioni del modello.
+
+Nel mondo della finanza è molto noto il principio "Garbage in, garbage out". 
+Esso significa che, se i dati e le ipotesi inseriti nel modello fossero di 
+scarsa qualità, anche il risultato finale sarebbe inaffidabile. 
+Se, invece, le ipotesi fossero solide, coerenti e realistiche, il DCF 
+rappresenterebbe uno degli strumenti più efficaci per stimare il valore 
+di un'impresa.
+
+In conclusione, si potrebbe affermare che il Discounted Cash Flow non sia 
+soltanto una formula matematica, ma soprattutto un esercizio di ragionamento 
+economico. 
+Se l'analista sapesse costruire ipotesi credibili e coerenti, il DCF gli 
+consentirebbe di prendere decisioni d'investimento molto più consapevoli.
 
 ---
-
-## Che cos'è il Free Cash Flow (FCF)?
-
-Il **Free Cash Flow (FCF)**, ovvero **flusso di cassa libero**, rappresenta il denaro che rimane all'azienda dopo aver sostenuto tutte le spese operative e gli investimenti necessari al mantenimento e allo sviluppo dell'attività (Capital Expenditures, o CapEx).
+Che cos'è il Free Cash Flow (FCF)?
+Il Free Cash Flow (FCF), ovvero flusso di cassa libero, rappresenta il denaro che 
+rimane all'azienda dopo aver sostenuto tutte le spese operative e gli investimenti 
+necessari al mantenimento e allo sviluppo dell'attività (Capital Expenditures, o CapEx).
 
 La formula più utilizzata è:
-
-**FCF = Flusso di cassa operativo − Spese in conto capitale (CapEx)**
-
+FCF = Flusso di cassa operativo − Spese in conto capitale (CapEx)
 Il FCF costituisce la liquidità effettivamente disponibile per:
 
 * distribuire dividendi agli azionisti;
@@ -22,7 +56,9 @@ Il FCF costituisce la liquidità effettivamente disponibile per:
 * finanziare nuove acquisizioni;
 * investire nella crescita futura dell'impresa.
 
-Per questo motivo molti investitori professionali attribuiscono al FCF un'importanza persino superiore rispetto all'utile netto, poiché rappresenta denaro realmente disponibile e non un semplice risultato contabile.
+Per questo motivo molti investitori professionali attribuiscono al FCF un'importanza persino 
+superiore rispetto all'utile netto, poiché rappresenta denaro realmente disponibile e non 
+un semplice risultato contabile.
 
 ---
 
